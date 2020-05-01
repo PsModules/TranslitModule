@@ -1,0 +1,82 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>TranslitModule</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="GitVersionTask" Version="5.2.4" />
+    <PackageReference Include="NickBuhro.Translit" Version="1.4.5" />
+    <PackageReference Include="PowerShellStandard.Library" Version="5.1.0">
+      <PrivateAssets>All</PrivateAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="Tests\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Remove="Tests\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="Tests\**" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies>
+  <RestoreProjectStyle>PackageReference</RestoreProjectStyle>
+  </PropertyGroup>
+
+
+
+
+  <Target Name="SetItemGroups">
+    <Message Text="Output Dir: $(OutDir)" Importance="High" />
+    
+    <PropertyGroup>
+      <SoultionFolder>$(ProjectDir)..\</SoultionFolder>
+    </PropertyGroup>
+
+    <PropertyGroup>
+      <ModuleOutDir>$(SoultionFolder)Out\</ModuleOutDir>
+      <ModuleBinOutDir>$(SoultionFolder)Out\bin</ModuleBinOutDir>
+    </PropertyGroup>
+    
+    <ItemGroup>
+      <ModuleLib Include="$(OutDir)\$(TargetFileName)" />
+      <NugetLibs Include="$(OutDir)\NickBuhro.Translit.dll" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectFiles Include="$(SoultionFolder)\README.md" />
+      <ProjectFiles Include="$(SoultionFolder)\TranslitModule.psd1" />
+      <ProjectFiles Include="$(SoultionFolgit checder)\TranslitModule.psm1" />
+      
+    </ItemGroup>
+  </Target>
+
+
+  <Target Name="CopyOut" DependsOnTargets="SetItemGroups" AfterTargets="PostBuildEvent">
+    <Message Text="--===Copying module to $(ModuleBinOutDir) folder===--" Importance="High" />
+
+
+    <Message Text="Clean up Out directory $(ModuleOutDir)" Importance="High" />
+    <RemoveDir Directories="$(ModuleOutDir)" />
+    <MakeDir Directories="$(ModuleBinOutDir)" />
+    
+    <Message Text="Copying module binaries @(NugetLibs) @(NugetLibs) to $(ModuleBinOutDir) folder" Importance="High" />
+
+    <Copy SourceFiles="@(ModuleLib)" DestinationFiles="@(ModuleLib->'$(ModuleBinOutDir)\%(RecursiveDir)%(Filename)%(Extension)')" />
+    <Copy SourceFiles="@(NugetLibs)" DestinationFiles="@(NugetLibs->'$(ModuleBinOutDir)\%(RecursiveDir)%(Filename)%(Extension)')" />
+
+        
+    <Copy SourceFiles="@(ProjectFiles)" DestinationFiles="@(ProjectFiles->'$(ModuleOutDir)\%(RecursiveDir)%(Filename)%(Extension)')" />
+    
+    <Exec Command="echo Output written to $(TargetDir)" />
+  </Target>
+
+  
+</Project>
