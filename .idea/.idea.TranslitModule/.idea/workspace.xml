@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8385e618-826a-42fe-9820-cfa75c1f88a7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Rebase.Settings">
+    <option name="ONTO" value="refs/remotes/origin/master" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DB97D0C9-FC50-47C8-A021-39AABCE40627/97/d443bda8/Transliteration.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6155F331-8358-4C0C-9FDC-712229CEFC80/ec/11cbcb98/ModuleSpecification.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Souces/ParameterSet.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Tests/RussianTransliterationUnitTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/C33AFD71-6EE0-4892-B8AD-69B81D88AE1C/21/Environment.CoreCLR.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/377B61B6-13EA-444F-826F-377D9474FFCA/22/f0576bf3/TestInvoker`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Souces/LatinToCyrillicCmdletCommand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Souces/LangHelpers.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Tests/BelarusianTransliterationUnitTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/08130D46-68CA-468E-832A-AA2782232CEF/25/25bb3c09/Cmdlet.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Souces/CyrillicToLatinCmdletCommand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6155F331-8358-4C0C-9FDC-712229CEFC80/bf/9f469c1c/PSCmdlet.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6155F331-8358-4C0C-9FDC-712229CEFC80/37/48762139/Cmdlet.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DB97D0C9-FC50-47C8-A021-39AABCE40627/03/d5d23a1b/Language.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6155F331-8358-4C0C-9FDC-712229CEFC80/3b/86defa97/CommandOrigin.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6155F331-8358-4C0C-9FDC-712229CEFC80/20/53a56604/Command.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/8517F607-C12A-4B50-8364-C3F896F0FE6F/45/8e881e44/Assert.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/LangHelpers.cs" />
+        <option value="$PROJECT_DIR$/CyrillicTransliterationCmdletCommand.cs" />
+        <option value="$PROJECT_DIR$/LatinTransliterationCmdletCommand.cs" />
+        <option value="$PROJECT_DIR$/Tests/wwe.cs" />
+        <option value="$PROJECT_DIR$/Tests/UnitTest1.cs" />
+        <option value="$PROJECT_DIR$/Tests/Tests/Tests.csproj" />
+        <option value="$PROJECT_DIR$/Tests/Tests/UnitTest1.cs" />
+        <option value="$PROJECT_DIR$/Tests/obj/Debug/netcoreapp3.1/Tests.AssemblyInfo.cs" />
+        <option value="$PROJECT_DIR$/Souces/TranslitModule.psd1" />
+        <option value="$PROJECT_DIR$/Souces/CyrillicTransliterationCmdletCommand.cs" />
+        <option value="$PROJECT_DIR$/Souces/LatinTransliterationCmdletCommand.cs" />
+        <option value="$PROJECT_DIR$/Tests/CyrillicTransliterationUnitTest.cs" />
+        <option value="$PROJECT_DIR$/Tests/RusianTransliterationUnitTest.cs" />
+        <option value="$PROJECT_DIR$/Tests/BelarusianTransliterationUnitTest.cs" />
+        <option value="$PROJECT_DIR$/../../../../../Program Files/dotnet/sdk/3.1.201/Current/Microsoft.Common.props" />
+        <option value="$PROJECT_DIR$/azure-pipelines.yml" />
+        <option value="$PROJECT_DIR$/Souces/LangHelpers.cs" />
+        <option value="$PROJECT_DIR$/Tests/RussianTransliterationUnitTest.cs" />
+        <option value="$PROJECT_DIR$/TranslitModule.psd1" />
+        <option value="$PROJECT_DIR$/TranslitModule.psm1" />
+        <option value="$PROJECT_DIR$/Souces/LatinToCyrillicCmdletCommand.cs" />
+        <option value="$PROJECT_DIR$/Souces/CyrillicToLatinCmdletCommand.cs" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/Souces/TranslitModule.csproj" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1b4P2uj8mC9hwNGFoVinDETGiXd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.35045663" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.3002283" />
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="AngularJS" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Publish to folder.Publish TranslitModule to folder">
+    <configuration name="CombineModule" type="DotNetFolderPublish" factoryName="Publish to folder" temporary="true">
+      <riderPublish runtime="Portable" target_folder="$PROJECT_DIR$/Out" target_framework="netstandard2.0" uuid_high="3835705925450747363" uuid_low="-6585032469571431914" />
+      <method v="2">
+        <option name="CleanProject" default="false" projectName="TranslitModule" projectPath="C:\Users\sync\source\repos\TranslitModule\Souces\TranslitModule.csproj" />
+        <option name="Build" default="false" projectName="TranslitModule" projectPath="C:\Users\sync\source\repos\TranslitModule\Souces\TranslitModule.csproj" />
+        <option name="Build Solution" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Publish TranslitModule to folder" type="DotNetFolderPublish" factoryName="Publish to folder" temporary="true">
+      <riderPublish uuid_high="3835705925450747363" uuid_low="-6585032469571431914" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Publish to folder.Publish TranslitModule to folder" />
+        <item itemvalue="Publish to folder.CombineModule" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8385e618-826a-42fe-9820-cfa75c1f88a7" name="Default Changelist" comment="" />
+      <created>1587888188316</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587888188316</updated>
+      <workItem from="1587888189672" duration="3739000" />
+      <workItem from="1588031539211" duration="1483000" />
+      <workItem from="1588033516687" duration="1884000" />
+      <workItem from="1588065254961" duration="567000" />
+      <workItem from="1588065953348" duration="1694000" />
+      <workItem from="1588069792221" duration="49000" />
+      <workItem from="1588070833813" duration="1379000" />
+      <workItem from="1588072942857" duration="592000" />
+      <workItem from="1588075086650" duration="34744000" />
+    </task>
+    <task id="LOCAL-00001" summary="add module binaries">
+      <created>1588375252310</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588375252310</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add compilation script">
+      <created>1588375274052</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1588375274052</updated>
+    </task>
+    <task id="LOCAL-00003" summary="unit tests">
+      <created>1588375294518</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1588375294519</updated>
+    </task>
+    <task id="LOCAL-00004" summary="update ignore file">
+      <created>1588375341489</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1588375341489</updated>
+    </task>
+    <task id="LOCAL-00005" summary="solution file">
+      <created>1588375411058</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1588375411058</updated>
+    </task>
+    <task id="LOCAL-00006" summary="ps manifest files">
+      <created>1588375425944</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1588375425944</updated>
+    </task>
+    <task id="LOCAL-00007" summary="assets files">
+      <created>1588375478108</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1588375478108</updated>
+    </task>
+    <task id="LOCAL-00008" summary="assets project">
+      <created>1588375496650</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1588375496650</updated>
+    </task>
+    <task id="LOCAL-00009" summary="build scripts">
+      <created>1588375514253</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1588375514253</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="UnitTestsCoverage.Settings">
+    <option name="coveragePercentColumnWidth" value="150" />
+    <option name="sortOrder" value="DESCENDING" />
+    <option name="sortedColumn" value="1" />
+    <option name="symbolColumnWidth" value="100" />
+    <coverage-tree-state>
+      <expand>
+        <path>
+          <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
+          <item name="1" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+        </path>
+      </expand>
+      <select />
+    </coverage-tree-state>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="add module binaries" />
+    <MESSAGE value="add compilation script" />
+    <MESSAGE value="unit tests" />
+    <MESSAGE value="update ignore file" />
+    <MESSAGE value="solution file" />
+    <MESSAGE value="ps manifest files" />
+    <MESSAGE value="assets files" />
+    <MESSAGE value="assets project" />
+    <MESSAGE value="build scripts" />
+    <option name="LAST_COMMIT_MESSAGE" value="build scripts" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="700" y="275" key="#Publish_TranslitModule_to_folder" timestamp="1588332002799">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="700" y="275" key="#Publish_TranslitModule_to_folder/62.0.1858.1080@62.0.1858.1080" timestamp="1588332002799" />
+    <state x="752" y="342" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588372569157">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="752" y="342" key="#com.intellij.fileTypes.FileTypeChooser/62.0.1858.1080@62.0.1858.1080" timestamp="1588372569157" />
+    <state x="746" y="244" key="#xdebugger.evaluate" timestamp="1588202185306">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="746" y="244" key="#xdebugger.evaluate/62.0.1858.1080@62.0.1858.1080" timestamp="1588202185306" />
+    <state width="484" height="464" key="DebuggerActiveHint" timestamp="1588331954169">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="484" height="464" key="DebuggerActiveHint/62.0.1858.1080@62.0.1858.1080" timestamp="1588331954169" />
+    <state width="907" height="364" key="GridCell.Tab.0.bottom" timestamp="1588374648923">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="907" height="364" key="GridCell.Tab.0.bottom/62.0.1858.1080@62.0.1858.1080" timestamp="1588374648923" />
+    <state width="907" height="364" key="GridCell.Tab.0.center" timestamp="1588374648923">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="907" height="364" key="GridCell.Tab.0.center/62.0.1858.1080@62.0.1858.1080" timestamp="1588374648923" />
+    <state width="907" height="364" key="GridCell.Tab.0.left" timestamp="1588374648923">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="907" height="364" key="GridCell.Tab.0.left/62.0.1858.1080@62.0.1858.1080" timestamp="1588374648923" />
+    <state width="907" height="364" key="GridCell.Tab.0.right" timestamp="1588374648923">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="907" height="364" key="GridCell.Tab.0.right/62.0.1858.1080@62.0.1858.1080" timestamp="1588374648923" />
+    <state width="907" height="364" key="GridCell.Tab.1.bottom" timestamp="1588374648924">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="907" height="364" key="GridCell.Tab.1.bottom/62.0.1858.1080@62.0.1858.1080" timestamp="1588374648924" />
+    <state width="907" height="364" key="GridCell.Tab.1.center" timestamp="1588374648923">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="907" height="364" key="GridCell.Tab.1.center/62.0.1858.1080@62.0.1858.1080" timestamp="1588374648923" />
+    <state width="907" height="364" key="GridCell.Tab.1.left" timestamp="1588374648923">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="907" height="364" key="GridCell.Tab.1.left/62.0.1858.1080@62.0.1858.1080" timestamp="1588374648923" />
+    <state width="907" height="364" key="GridCell.Tab.1.right" timestamp="1588374648923">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="907" height="364" key="GridCell.Tab.1.right/62.0.1858.1080@62.0.1858.1080" timestamp="1588374648923" />
+    <state width="907" height="364" key="GridCell.Tab.2.bottom" timestamp="1588374648924">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="907" height="364" key="GridCell.Tab.2.bottom/62.0.1858.1080@62.0.1858.1080" timestamp="1588374648924" />
+    <state width="907" height="364" key="GridCell.Tab.2.center" timestamp="1588374648924">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="907" height="364" key="GridCell.Tab.2.center/62.0.1858.1080@62.0.1858.1080" timestamp="1588374648924" />
+    <state width="907" height="364" key="GridCell.Tab.2.left" timestamp="1588374648924">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="907" height="364" key="GridCell.Tab.2.left/62.0.1858.1080@62.0.1858.1080" timestamp="1588374648924" />
+    <state width="907" height="364" key="GridCell.Tab.2.right" timestamp="1588374648924">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="907" height="364" key="GridCell.Tab.2.right/62.0.1858.1080@62.0.1858.1080" timestamp="1588374648924" />
+    <state width="907" height="364" key="GridCell.Tab.3.bottom" timestamp="1588374648924">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="907" height="364" key="GridCell.Tab.3.bottom/62.0.1858.1080@62.0.1858.1080" timestamp="1588374648924" />
+    <state width="907" height="364" key="GridCell.Tab.3.center" timestamp="1588374648924">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="907" height="364" key="GridCell.Tab.3.center/62.0.1858.1080@62.0.1858.1080" timestamp="1588374648924" />
+    <state width="907" height="364" key="GridCell.Tab.3.left" timestamp="1588374648924">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="907" height="364" key="GridCell.Tab.3.left/62.0.1858.1080@62.0.1858.1080" timestamp="1588374648924" />
+    <state width="907" height="364" key="GridCell.Tab.3.right" timestamp="1588374648924">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="907" height="364" key="GridCell.Tab.3.right/62.0.1858.1080@62.0.1858.1080" timestamp="1588374648924" />
+    <state width="907" height="364" key="GridCell.Tab.4.bottom" timestamp="1588374648924">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="907" height="364" key="GridCell.Tab.4.bottom/62.0.1858.1080@62.0.1858.1080" timestamp="1588374648924" />
+    <state width="907" height="364" key="GridCell.Tab.4.center" timestamp="1588374648924">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="907" height="364" key="GridCell.Tab.4.center/62.0.1858.1080@62.0.1858.1080" timestamp="1588374648924" />
+    <state width="907" height="364" key="GridCell.Tab.4.left" timestamp="1588374648924">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="907" height="364" key="GridCell.Tab.4.left/62.0.1858.1080@62.0.1858.1080" timestamp="1588374648924" />
+    <state width="907" height="364" key="GridCell.Tab.4.right" timestamp="1588374648924">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="907" height="364" key="GridCell.Tab.4.right/62.0.1858.1080@62.0.1858.1080" timestamp="1588374648924" />
+    <state x="648" y="432" key="Rider.ProjectTemplateDialog.Size" timestamp="1588317648194">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="648" y="432" key="Rider.ProjectTemplateDialog.Size/62.0.1858.1080@62.0.1858.1080" timestamp="1588317648194" />
+    <state x="1081" y="183" key="RiderGenerateDialog" timestamp="1588027603629">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="1081" y="183" key="RiderGenerateDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1588027603629" />
+    <state x="174" y="258" key="SettingsEditor" timestamp="1588106183209">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="174" y="258" key="SettingsEditor/62.0.1858.1080@62.0.1858.1080" timestamp="1588106183209" />
+    <state x="796" y="401" key="git4idea.rebase.GitRebaseDialog" timestamp="1588374972519">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="796" y="401" key="git4idea.rebase.GitRebaseDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1588374972519" />
+    <state x="792" y="446" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1588375001719">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="792" y="446" key="git4idea.remote.GitConfigureRemotesDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1588375001719" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Tests/BelarusianTransliterationUnitTest.cs</url>
+          <line>13</line>
+          <properties documentPath="$PROJECT_DIR$/Tests/UnitTest1.cs" initialLine="17" />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Tests/BelarusianTransliterationUnitTest.cs</url>
+          <line>27</line>
+          <properties documentPath="$PROJECT_DIR$/Tests/CyrillicTransliterationUnitTest.cs" initialLine="30">
+            <startOffsets>
+              <option value="756" />
+            </startOffsets>
+            <endOffsets>
+              <option value="787" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Tests/BelarusianTransliterationUnitTest.cs</url>
+          <line>25</line>
+          <properties documentPath="$PROJECT_DIR$/Tests/CyrillicTransliterationUnitTest.cs" initialLine="28">
+            <startOffsets>
+              <option value="684" />
+            </startOffsets>
+            <endOffsets>
+              <option value="712" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Tests/RussianTransliterationUnitTest.cs</url>
+          <line>32</line>
+          <properties documentPath="$PROJECT_DIR$/Tests/RussianTransliterationUnitTest.cs" initialLine="29">
+            <startOffsets>
+              <option value="934" />
+            </startOffsets>
+            <endOffsets>
+              <option value="965" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Tests/RussianTransliterationUnitTest.cs</url>
+          <line>61</line>
+          <properties documentPath="$PROJECT_DIR$/Tests/RussianTransliterationUnitTest.cs" initialLine="54">
+            <startOffsets>
+              <option value="1855" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1900" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Tests/RussianTransliterationUnitTest.cs</url>
+          <line>65</line>
+          <properties documentPath="$PROJECT_DIR$/Tests/RussianTransliterationUnitTest.cs" initialLine="61">
+            <startOffsets>
+              <option value="2021" />
+            </startOffsets>
+            <endOffsets>
+              <option value="2060" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Souces/LatinToCyrillicCmdletCommand.cs</url>
+          <line>60</line>
+          <properties documentPath="$PROJECT_DIR$/Souces/LatinToCyrillicCmdletCommand.cs" initialLine="60">
+            <startOffsets>
+              <option value="2178" />
+            </startOffsets>
+            <endOffsets>
+              <option value="2179" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Tests/RussianTransliterationUnitTest.cs</url>
+          <line>34</line>
+          <properties documentPath="$PROJECT_DIR$/Tests/RussianTransliterationUnitTest.cs" initialLine="34">
+            <startOffsets>
+              <option value="1029" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1068" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Tests/RussianTransliterationUnitTest.cs</url>
+          <line>33</line>
+          <properties documentPath="$PROJECT_DIR$/Tests/RussianTransliterationUnitTest.cs" initialLine="33">
+            <startOffsets>
+              <option value="978" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1016" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Souces/CyrillicToLatinCmdletCommand.cs</url>
+          <line>58</line>
+          <properties documentPath="$PROJECT_DIR$/Souces/CyrillicToLatinCmdletCommand.cs" initialLine="58">
+            <startOffsets>
+              <option value="2183" />
+            </startOffsets>
+            <endOffsets>
+              <option value="2241" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Souces/CyrillicToLatinCmdletCommand.cs</url>
+          <line>68</line>
+          <properties documentPath="$PROJECT_DIR$/Souces/CyrillicToLatinCmdletCommand.cs" initialLine="68">
+            <startOffsets>
+              <option value="2586" />
+            </startOffsets>
+            <endOffsets>
+              <option value="2622" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Souces/CyrillicToLatinCmdletCommand.cs</url>
+          <line>75</line>
+          <properties documentPath="$PROJECT_DIR$/Souces/CyrillicToLatinCmdletCommand.cs" initialLine="75">
+            <startOffsets>
+              <option value="2808" />
+            </startOffsets>
+            <endOffsets>
+              <option value="2868" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Souces/LatinToCyrillicCmdletCommand.cs</url>
+          <line>78</line>
+          <properties documentPath="$PROJECT_DIR$/Souces/LatinToCyrillicCmdletCommand.cs" initialLine="78">
+            <startOffsets>
+              <option value="2829" />
+            </startOffsets>
+            <endOffsets>
+              <option value="2889" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Souces/LatinToCyrillicCmdletCommand.cs</url>
+          <line>84</line>
+          <properties documentPath="$PROJECT_DIR$/Souces/LatinToCyrillicCmdletCommand.cs" initialLine="84">
+            <startOffsets>
+              <option value="2976" />
+            </startOffsets>
+            <endOffsets>
+              <option value="3033" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

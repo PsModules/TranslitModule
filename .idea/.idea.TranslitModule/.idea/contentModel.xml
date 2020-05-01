@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\sync\.nuget\packages\microsoft.net.test.sdk\16.4.0\build\netcoreapp2.1" t="Include">
+      <e p="Microsoft.NET.Test.Sdk.Program.cs" t="Include" />
+    </e>
+    <e p="C:\Users\sync\.nuget\packages\microsoft.powershell.sdk\7.0.0\contentFiles\any\any\ref" t="Include">
+      <e p="Microsoft.CSharp.dll" t="Include" />
+      <e p="Microsoft.VisualBasic.Core.dll" t="Include" />
+      <e p="Microsoft.VisualBasic.dll" t="Include" />
+      <e p="Microsoft.Win32.Primitives.dll" t="Include" />
+      <e p="mscorlib.dll" t="Include" />
+      <e p="netstandard.dll" t="Include" />
+      <e p="System.AppContext.dll" t="Include" />
+      <e p="System.Buffers.dll" t="Include" />
+      <e p="System.Collections.Concurrent.dll" t="Include" />
+      <e p="System.Collections.dll" t="Include" />
+      <e p="System.Collections.Immutable.dll" t="Include" />
+      <e p="System.Collections.NonGeneric.dll" t="Include" />
+      <e p="System.Collections.Specialized.dll" t="Include" />
+      <e p="System.ComponentModel.Annotations.dll" t="Include" />
+      <e p="System.ComponentModel.DataAnnotations.dll" t="Include" />
+      <e p="System.ComponentModel.dll" t="Include" />
+      <e p="System.ComponentModel.EventBasedAsync.dll" t="Include" />
+      <e p="System.ComponentModel.Primitives.dll" t="Include" />
+      <e p="System.ComponentModel.TypeConverter.dll" t="Include" />
+      <e p="System.Configuration.dll" t="Include" />
+      <e p="System.Console.dll" t="Include" />
+      <e p="System.Core.dll" t="Include" />
+      <e p="System.Data.Common.dll" t="Include" />
+      <e p="System.Data.DataSetExtensions.dll" t="Include" />
+      <e p="System.Data.dll" t="Include" />
+      <e p="System.Diagnostics.Contracts.dll" t="Include" />
+      <e p="System.Diagnostics.Debug.dll" t="Include" />
+      <e p="System.Diagnostics.DiagnosticSource.dll" t="Include" />
+      <e p="System.Diagnostics.FileVersionInfo.dll" t="Include" />
+      <e p="System.Diagnostics.Process.dll" t="Include" />
+      <e p="System.Diagnostics.StackTrace.dll" t="Include" />
+      <e p="System.Diagnostics.TextWriterTraceListener.dll" t="Include" />
+      <e p="System.Diagnostics.Tools.dll" t="Include" />
+      <e p="System.Diagnostics.TraceSource.dll" t="Include" />
+      <e p="System.Diagnostics.Tracing.dll" t="Include" />
+      <e p="System.dll" t="Include" />
+      <e p="System.Drawing.dll" t="Include" />
+      <e p="System.Drawing.Primitives.dll" t="Include" />
+      <e p="System.Dynamic.Runtime.dll" t="Include" />
+      <e p="System.Globalization.Calendars.dll" t="Include" />
+      <e p="System.Globalization.dll" t="Include" />
+      <e p="System.Globalization.Extensions.dll" t="Include" />
+      <e p="System.IO.Compression.Brotli.dll" t="Include" />
+      <e p="System.IO.Compression.dll" t="Include" />
+      <e p="System.IO.Compression.FileSystem.dll" t="Include" />
+      <e p="System.IO.Compression.ZipFile.dll" t="Include" />
+      <e p="System.IO.dll" t="Include" />
+      <e p="System.IO.FileSystem.dll" t="Include" />
+      <e p="System.IO.FileSystem.DriveInfo.dll" t="Include" />
+      <e p="System.IO.FileSystem.Primitives.dll" t="Include" />
+      <e p="System.IO.FileSystem.Watcher.dll" t="Include" />
+      <e p="System.IO.IsolatedStorage.dll" t="Include" />
+      <e p="System.IO.MemoryMappedFiles.dll" t="Include" />
+      <e p="System.IO.Pipes.dll" t="Include" />
+      <e p="System.IO.UnmanagedMemoryStream.dll" t="Include" />
+      <e p="System.Linq.dll" t="Include" />
+      <e p="System.Linq.Expressions.dll" t="Include" />
+      <e p="System.Linq.Parallel.dll" t="Include" />
+      <e p="System.Linq.Queryable.dll" t="Include" />
+      <e p="System.Memory.dll" t="Include" />
+      <e p="System.Net.dll" t="Include" />
+      <e p="System.Net.Http.dll" t="Include" />
+      <e p="System.Net.HttpListener.dll" t="Include" />
+      <e p="System.Net.Mail.dll" t="Include" />
+      <e p="System.Net.NameResolution.dll" t="Include" />
+      <e p="System.Net.NetworkInformation.dll" t="Include" />
+      <e p="System.Net.Ping.dll" t="Include" />
+      <e p="System.Net.Primitives.dll" t="Include" />
+      <e p="System.Net.Requests.dll" t="Include" />
+      <e p="System.Net.Security.dll" t="Include" />
+      <e p="System.Net.ServicePoint.dll" t="Include" />
+      <e p="System.Net.Sockets.dll" t="Include" />
+      <e p="System.Net.WebClient.dll" t="Include" />
+      <e p="System.Net.WebHeaderCollection.dll" t="Include" />
+      <e p="System.Net.WebProxy.dll" t="Include" />
+      <e p="System.Net.WebSockets.Client.dll" t="Include" />
+      <e p="System.Net.WebSockets.dll" t="Include" />
+      <e p="System.Numerics.dll" t="Include" />
+      <e p="System.Numerics.Vectors.dll" t="Include" />
+      <e p="System.ObjectModel.dll" t="Include" />
+      <e p="System.Reflection.DispatchProxy.dll" t="Include" />
+      <e p="System.Reflection.dll" t="Include" />
+      <e p="System.Reflection.Emit.dll" t="Include" />
+      <e p="System.Reflection.Emit.ILGeneration.dll" t="Include" />
+      <e p="System.Reflection.Emit.Lightweight.dll" t="Include" />
+      <e p="System.Reflection.Extensions.dll" t="Include" />
+      <e p="System.Reflection.Metadata.dll" t="Include" />
+      <e p="System.Reflection.Primitives.dll" t="Include" />
+      <e p="System.Reflection.TypeExtensions.dll" t="Include" />
+      <e p="System.Resources.Reader.dll" t="Include" />
+      <e p="System.Resources.ResourceManager.dll" t="Include" />
+      <e p="System.Resources.Writer.dll" t="Include" />
+      <e p="System.Runtime.CompilerServices.Unsafe.dll" t="Include" />
+      <e p="System.Runtime.CompilerServices.VisualC.dll" t="Include" />
+      <e p="System.Runtime.dll" t="Include" />
+      <e p="System.Runtime.Extensions.dll" t="Include" />
+      <e p="System.Runtime.Handles.dll" t="Include" />
+      <e p="System.Runtime.InteropServices.dll" t="Include" />
+      <e p="System.Runtime.InteropServices.RuntimeInformation.dll" t="Include" />
+      <e p="System.Runtime.InteropServices.WindowsRuntime.dll" t="Include" />
+      <e p="System.Runtime.Intrinsics.dll" t="Include" />
+      <e p="System.Runtime.Loader.dll" t="Include" />
+      <e p="System.Runtime.Numerics.dll" t="Include" />
+      <e p="System.Runtime.Serialization.dll" t="Include" />
+      <e p="System.Runtime.Serialization.Formatters.dll" t="Include" />
+      <e p="System.Runtime.Serialization.Json.dll" t="Include" />
+      <e p="System.Runtime.Serialization.Primitives.dll" t="Include" />
+      <e p="System.Runtime.Serialization.Xml.dll" t="Include" />
+      <e p="System.Security.Claims.dll" t="Include" />
+      <e p="System.Security.Cryptography.Algorithms.dll" t="Include" />
+      <e p="System.Security.Cryptography.Csp.dll" t="Include" />
+      <e p="System.Security.Cryptography.Encoding.dll" t="Include" />
+      <e p="System.Security.Cryptography.Primitives.dll" t="Include" />
+      <e p="System.Security.Cryptography.X509Certificates.dll" t="Include" />
+      <e p="System.Security.dll" t="Include" />
+      <e p="System.Security.Principal.dll" t="Include" />
+      <e p="System.Security.SecureString.dll" t="Include" />
+      <e p="System.ServiceModel.Web.dll" t="Include" />
+      <e p="System.ServiceProcess.dll" t="Include" />
+      <e p="System.Text.Encoding.CodePages.dll" t="Include" />
+      <e p="System.Text.Encoding.dll" t="Include" />
+      <e p="System.Text.Encoding.Extensions.dll" t="Include" />
+      <e p="System.Text.Encodings.Web.dll" t="Include" />
+      <e p="System.Text.Json.dll" t="Include" />
+      <e p="System.Text.RegularExpressions.dll" t="Include" />
+      <e p="System.Threading.Channels.dll" t="Include" />
+      <e p="System.Threading.dll" t="Include" />
+      <e p="System.Threading.Overlapped.dll" t="Include" />
+      <e p="System.Threading.Tasks.Dataflow.dll" t="Include" />
+      <e p="System.Threading.Tasks.dll" t="Include" />
+      <e p="System.Threading.Tasks.Extensions.dll" t="Include" />
+      <e p="System.Threading.Tasks.Parallel.dll" t="Include" />
+      <e p="System.Threading.Thread.dll" t="Include" />
+      <e p="System.Threading.ThreadPool.dll" t="Include" />
+      <e p="System.Threading.Timer.dll" t="Include" />
+      <e p="System.Transactions.dll" t="Include" />
+      <e p="System.Transactions.Local.dll" t="Include" />
+      <e p="System.ValueTuple.dll" t="Include" />
+      <e p="System.Web.dll" t="Include" />
+      <e p="System.Web.HttpUtility.dll" t="Include" />
+      <e p="System.Windows.dll" t="Include" />
+      <e p="System.Xml.dll" t="Include" />
+      <e p="System.Xml.Linq.dll" t="Include" />
+      <e p="System.Xml.ReaderWriter.dll" t="Include" />
+      <e p="System.Xml.Serialization.dll" t="Include" />
+      <e p="System.Xml.XDocument.dll" t="Include" />
+      <e p="System.Xml.XmlDocument.dll" t="Include" />
+      <e p="System.Xml.XmlSerializer.dll" t="Include" />
+      <e p="System.Xml.XPath.dll" t="Include" />
+      <e p="System.Xml.XPath.XDocument.dll" t="Include" />
+      <e p="WindowsBase.dll" t="Include" />
+    </e>
+    <e p="C:\Users\sync\.nuget\packages\microsoft.powershell.sdk\7.0.0\contentFiles\any\any\runtimes" t="Include">
+      <e p="unix" t="Include">
+        <e p="lib" t="Include">
+          <e p="netcoreapp3.1" t="Include">
+            <e p="Modules" t="Include">
+              <e p="Microsoft.PowerShell.Host" t="Include">
+                <e p="Microsoft.PowerShell.Host.psd1" t="Include" />
+              </e>
+              <e p="Microsoft.PowerShell.Management" t="Include">
+                <e p="Microsoft.PowerShell.Management.psd1" t="Include" />
+              </e>
+              <e p="Microsoft.PowerShell.Security" t="Include">
+                <e p="Microsoft.PowerShell.Security.psd1" t="Include" />
+              </e>
+              <e p="Microsoft.PowerShell.Utility" t="Include">
+                <e p="Microsoft.PowerShell.Utility.psd1" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="win" t="Include">
+        <e p="lib" t="Include">
+          <e p="netcoreapp3.1" t="Include">
+            <e p="Modules" t="Include">
+              <e p="CimCmdlets" t="Include">
+                <e p="CimCmdlets.psd1" t="Include" />
+              </e>
+              <e p="Microsoft.PowerShell.Diagnostics" t="Include">
+                <e p="Diagnostics.format.ps1xml" t="Include" />
+                <e p="Event.format.ps1xml" t="Include" />
+                <e p="GetEvent.types.ps1xml" t="Include" />
+                <e p="Microsoft.PowerShell.Diagnostics.psd1" t="Include" />
+              </e>
+              <e p="Microsoft.PowerShell.Host" t="Include">
+                <e p="Microsoft.PowerShell.Host.psd1" t="Include" />
+              </e>
+              <e p="Microsoft.PowerShell.Management" t="Include">
+                <e p="Microsoft.PowerShell.Management.psd1" t="Include" />
+              </e>
+              <e p="Microsoft.PowerShell.Security" t="Include">
+                <e p="Microsoft.PowerShell.Security.psd1" t="Include" />
+              </e>
+              <e p="Microsoft.PowerShell.Utility" t="Include">
+                <e p="Microsoft.PowerShell.Utility.psd1" t="Include" />
+              </e>
+              <e p="Microsoft.WSMan.Management" t="Include">
+                <e p="Microsoft.WSMan.Management.psd1" t="Include" />
+                <e p="WSMan.format.ps1xml" t="Include" />
+              </e>
+              <e p="PSDiagnostics" t="Include">
+                <e p="PSDiagnostics.psd1" t="Include" />
+                <e p="PSDiagnostics.psm1" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+      </e>
+    </e>
+    <e p="C:\Users\sync\.nuget\packages\microsoft.testplatform.testhost\16.4.0\build\netcoreapp2.1\x64\testhost.dll" t="Include" />
+    <e p="C:\Users\sync\.nuget\packages\microsoft.testplatform.testhost\16.4.0\build\netcoreapp2.1\x64\testhost.exe" t="Include" />
+    <e p="C:\Users\sync\.nuget\packages\xunit.runner.visualstudio\2.4.1\build\netcoreapp1.0\xunit.runner.reporters.netcoreapp10.dll" t="Include" />
+    <e p="C:\Users\sync\.nuget\packages\xunit.runner.visualstudio\2.4.1\build\netcoreapp1.0\xunit.runner.utility.netcoreapp10.dll" t="Include" />
+    <e p="C:\Users\sync\.nuget\packages\xunit.runner.visualstudio\2.4.1\build\netcoreapp1.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll" t="Include" />
+    <e p="C:\Users\sync\AppData\local\JetBrains\Rider2020.1\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\sync\AppData\local\JetBrains\Rider2020.1\resharper-host\local\Transient\ReSharperHost\v201\SolutionCaches\_TranslitModule.-229680286.00" t="ExcludeRecursive" />
+    <e p="C:\Users\sync\AppData\Roaming\JetBrains\Rider2020.1\scratches" t="IncludeRecursive" />
+    <e p="C:\Users\sync\source\repos\TranslitModule" t="IncludeFlat">
+      <e p="appveyor.yml" t="Include" />
+      <e p="Assets" t="IncludeRecursive">
+        <e p="Assets.shproj" t="IncludeRecursive" />
+        <e p="demo.gif" t="Include" />
+        <e p="demo.yml" t="Include" />
+        <e p="Icon.ico" t="Include" />
+        <e p="Icon.pdn" t="Include" />
+      </e>
+      <e p="azure-pipelines.yml" t="Include" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="README.md" t="Include" />
+      <e p="Souces" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="CyrillicToLatinCmdletCommand.cs" t="Include" />
+        <e p="LangHelpers.cs" t="Include" />
+        <e p="LatinToCyrillicCmdletCommand.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="ParameterSet.cs" t="Include" />
+        <e p="TranslitModule.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="Tests" t="IncludeRecursive">
+        <e p="BelarusianTransliterationUnitTest.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="ModuleTests.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="ModuleTests.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="RussianTransliterationUnitTest.cs" t="Include" />
+      </e>
+      <e p="TranslitModule.psd1" t="Include" />
+      <e p="TranslitModule.psm1" t="Include" />
+      <e p="TranslitModule.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>

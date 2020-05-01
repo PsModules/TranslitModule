@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ef79ad62-0d61-47ea-8d9f-437ff4045d9c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/CyrillicTransliterationCmdletCommand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LangHelpers.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DB97D0C9-FC50-47C8-A021-39AABCE40627/70/5f98e79f/Language.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LatinTransliterationCmdletCommand.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/TestSampleCmdletCommand.cs" />
+        <option value="$PROJECT_DIR$/LangHelpers.cs" />
+        <option value="$PROJECT_DIR$/CyrillicTransliterationCmdletCommand.cs" />
+        <option value="$PROJECT_DIR$/LatinTransliterationCmdletCommand.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1b4EH1ZvObYxbq8cyYnKEe4LZPz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ef79ad62-0d61-47ea-8d9f-437ff4045d9c" name="Default Changelist" comment="" />
+      <created>1587882874284</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587882874284</updated>
+      <workItem from="1587882889724" duration="5284000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="801" y="501" key="Rider.ProjectTemplateDialog.Size" timestamp="1587888078929">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="801" y="501" key="Rider.ProjectTemplateDialog.Size/62.0.1858.1080@62.0.1858.1080" timestamp="1587888078929" />
+    <state x="270" y="144" width="1155" height="887" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1587883666730">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="270" y="144" width="1155" height="887" key="com.intellij.history.integration.ui.views.FileHistoryDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1587883666730" />
+  </component>
+</project>
