@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TranslitModule", "Souces\TranslitModule.csproj", "{353B2A37-7D5A-4DE3-A49D-43DBA0C81216}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\ModuleTests.csproj", "{702C0142-BDB8-4E04-BFC3-5EC4B4182966}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Assets", "Assets\Assets.shproj", "{46439350-F5D0-40B3-B581-1881D0117E60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{353B2A37-7D5A-4DE3-A49D-43DBA0C81216}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{353B2A37-7D5A-4DE3-A49D-43DBA0C81216}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{353B2A37-7D5A-4DE3-A49D-43DBA0C81216}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{353B2A37-7D5A-4DE3-A49D-43DBA0C81216}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CB72435-3DF1-468C-8BFE-4E361F8B8380}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CB72435-3DF1-468C-8BFE-4E361F8B8380}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CB72435-3DF1-468C-8BFE-4E361F8B8380}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CB72435-3DF1-468C-8BFE-4E361F8B8380}.Release|Any CPU.Build.0 = Release|Any CPU
+		{702C0142-BDB8-4E04-BFC3-5EC4B4182966}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{702C0142-BDB8-4E04-BFC3-5EC4B4182966}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{702C0142-BDB8-4E04-BFC3-5EC4B4182966}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{702C0142-BDB8-4E04-BFC3-5EC4B4182966}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
