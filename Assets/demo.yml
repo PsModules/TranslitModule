@@ -1,0 +1,715 @@
+# The configurations that used for the recording, feel free to edit them
+config:
+
+  # Specify a command to be executed
+  # like `/bin/bash -l`, `ls`, or any other commands
+  # the default is bash for Linux
+  # or powershell.exe for Windows
+  command: powershell.exe
+  
+  # Specify the current working directory path
+  # the default is the current working directory path
+  cwd: C:\Users\sync\source\repos\TranslitModule\Out
+  
+  # Export additional ENV variables
+  env:
+    recording: true
+  
+  # Explicitly set the number of columns
+  # or use `auto` to take the current
+  # number of columns of your shell
+  cols: 120
+  
+  # Explicitly set the number of rows
+  # or use `auto` to take the current
+  # number of rows of your shell
+  rows: 30
+  
+  # Amount of times to repeat GIF
+  # If value is -1, play once
+  # If value is 0, loop indefinitely
+  # If value is a positive number, loop n times
+  repeat: 0
+  
+  # Quality
+  # 1 - 100
+  quality: 100
+  
+  # Delay between frames in ms
+  # If the value is `auto` use the actual recording delays
+  frameDelay: auto
+  
+  # Maximum delay between frames in ms
+  # Ignored if the `frameDelay` isn't set to `auto`
+  # Set to `auto` to prevent limiting the max idle time
+  maxIdleTime: 2000
+  
+  # The surrounding frame box
+  # The `type` can be null, window, floating, or solid`
+  # To hide the title use the value null
+  # Don't forget to add a backgroundColor style with a null as type
+  frameBox:
+    type: floating
+    title: Terminalizer
+    style:
+      border: 0px black solid
+      # boxShadow: none
+      # margin: 0px
+  
+  # Add a watermark image to the rendered gif
+  # You need to specify an absolute path for
+  # the image on your machine or a URL, and you can also
+  # add your own CSS styles
+  watermark:
+    imagePath: null
+    style:
+      position: absolute
+      right: 15px
+      bottom: 15px
+      width: 100px
+      opacity: 0.9
+  
+  # Cursor style can be one of
+  # `block`, `underline`, or `bar`
+  cursorStyle: block
+  
+  # Font family
+  # You can use any font that is installed on your machine
+  # in CSS-like syntax
+  fontFamily: "Monaco, Lucida Console, Ubuntu Mono, Monospace"
+  
+  # The size of the font
+  fontSize: 12
+  
+  # The height of lines
+  lineHeight: 1
+  
+  # The spacing between letters
+  letterSpacing: 0
+  
+  # Theme
+  theme:
+    background: "transparent"
+    foreground: "#afafaf"
+    cursor: "#c7c7c7"
+    black: "#232628"
+    red: "#fc4384"
+    green: "#b3e33b"
+    yellow: "#ffa727"
+    blue: "#75dff2"
+    magenta: "#ae89fe"
+    cyan: "#708387"
+    white: "#d5d5d0"
+    brightBlack: "#626566"
+    brightRed: "#ff7fac"
+    brightGreen: "#c8ed71"
+    brightYellow: "#ebdf86"
+    brightBlue: "#75dff2"
+    brightMagenta: "#ae89fe"
+    brightCyan: "#b1c6ca"
+    brightWhite: "#f9f9f4"
+  
+# Records, feel free to edit them
+records:
+  - delay: 919
+    content: "\e[2J\e[?25l\e[m\e[H\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\e[H\e]0;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe\a\e[?25h\e[?25lWindows PowerShell\e[42X\e[42C\r\nCopyright (C) Microsoft Corporation. All rights reserved.   \r\n\e[60X\e[60C\r\nTry the new cross-platform PowerShell https://aka.ms/pscore6\e[6;1H\e[?25h"
+  - delay: 197
+    content: "\e[?25l\e[?25h"
+  - delay: 7
+    content: "\e[?25l\r\n\e[?25h"
+  - delay: 73
+    content: "\e[?25lPS>\e[?25h"
+  - delay: 1077
+    content: "\e[?25l\e[?25h"
+  - delay: 9
+    content: "\e[?25l\r\n\e[?25h"
+  - delay: 39
+    content: "\e[?25lPS>\e[?25h"
+  - delay: 96
+    content: "\e[?25l\e[?25h"
+  - delay: 10
+    content: "\e[?25l\r\n\e[?25h"
+  - delay: 38
+    content: "\e[?25lPS>\e[?25h"
+  - delay: 2349
+    content: "\e[?25l\e[?25h"
+  - delay: 9
+    content: "\e[93mI"
+  - delay: 262
+    content: "\e[?25l\e[m\e[?25h"
+  - delay: 9
+    content: "\e[?25l\e[93m\bIm\e[?25h"
+  - delay: 1053
+    content: "\e[?25l\e[m\e[?25h"
+  - delay: 8
+    content: "\e[?25l\e[93m\e[9;4HImp\e[?25h"
+  - delay: 199
+    content: "\e[?25l\e[m\e[?25h"
+  - delay: 7
+    content: "\e[?25l\e[93m\e[9;4HImpo\e[?25h"
+  - delay: 73
+    content: "\e[?25l\e[m\e[?25h"
+  - delay: 9
+    content: "\e[?25l\e[93m\e[9;4HImpor\e[?25h"
+  - delay: 151
+    content: "\e[?25l\e[m\e[?25h"
+  - delay: 9
+    content: "\e[?25l\e[93m\e[9;4HImport\e[?25h"
+  - delay: 183
+    content: "\e[?25l\e[m\e[?25h"
+  - delay: 9
+    content: "\e[?25l\e[93m\e[9;4HImport-\e[?25h"
+  - delay: 440
+    content: "\e[?25l\e[m\e[?25h"
+  - delay: 9
+    content: "\e[?25l\e[93m\e[9;4HImport-M\e[?25h"
+  - delay: 269
+    content: "\e[?25l\e[m\e[?25h"
+  - delay: 9
+    content: "\e[?25l\e[93m\e[9;4HImport-Mo\e[?25h"
+  - delay: 110
+    content: "\e[?25l\e[m\e[?25h"
+  - delay: 9
+    content: "\e[?25l\e[93m\e[9;4HImport-Mod\e[?25h"
+  - delay: 202
+    content: "\e[?25l\e[m\e[?25h"
+  - delay: 9
+    content: "\e[?25l\e[93m\e[9;4HImport-Modu\e[?25h"
+  - delay: 153
+    content: "\e[m"
+  - delay: 135
+    content: "\e[?25l\e[93m\e[9;4HImport-Module\e[?25h"
+  - delay: 394
+    content: "\e[?25l\e[m\e[?25h"
+  - delay: 8
+    content: "\e[?25l\e[93m\e[9;4HImport-Module\e[m \e[?25h"
+  - delay: 697
+    content: "\e[?25l\e[?25h"
+  - delay: 9
+    content: "\e[?25l\e[93m\e[9;4HImport-Module\e[m T\e[?25h"
+  - delay: 215
+    content: "\e[?25l\e[?25h"
+  - delay: 10
+    content: "\e[?25l\e[93m\e[9;4HImport-Module\e[m Tr\e[?25h"
+  - delay: 693
+    content: "\e[?25l\e[93m\e[9;4HImport-Module\e[m TranslitModule\e[?25h"
+  - delay: 588
+    content: "\e[?25l\e[?25h"
+  - delay: 8
+    content: "\e[?25l\r\n\e[?25h"
+  - delay: 114
+    content: "\e[?25lPS>\e[?25h"
+  - delay: 2586
+    content: "\e[?25l\e[?25h"
+  - delay: 10
+    content: "\e[93mC"
+  - delay: 308
+    content: "\e[?25l\e[m\e[?25h"
+  - delay: 7
+    content: "\e[?25l\e[93m\bCo\e[?25h"
+  - delay: 156
+    content: "\e[?25l\e[m\e[?25h"
+  - delay: 7
+    content: "\e[?25l\e[93m\e[10;4HCon\e[?25h"
+  - delay: 564
+    content: "\e[?25l\e[m\e[?25h"
+  - delay: 10
+    content: "\e[?25l\e[93m\e[10;4HConv\e[?25h"
+  - delay: 55
+    content: "\e[?25l\e[m\e[?25h"
+  - delay: 9
+    content: "\e[?25l\e[93m\e[10;4HConve\e[?25h"
+  - delay: 151
+    content: "\e[?25l\e[m\e[?25h"
+  - delay: 9
+    content: "\e[?25l\e[93m\e[10;4HConver\e[?25h"
+  - delay: 151
+    content: "\e[?25l\e[m\e[?25h"
+  - delay: 9
+    content: "\e[?25l\e[93m\e[10;4HConvert\e[?25h"
+  - delay: 632
+    content: "\e[?25l\e[m\e[?25h"
+  - delay: 9
+    content: "\e[?25l\e[93m\e[10;4HConvertT\e[?25h"
+  - delay: 277
+    content: "\e[?25l\e[m\e[?25h"
+  - delay: 9
+    content: "\e[?25l\e[93m\e[10;4HConvertTo\e[?25h"
+  - delay: 458
+    content: "\e[?25l\e[m\e[?25h"
+  - delay: 9
+    content: "\e[?25l\e[93m\e[10;4HConvertTo-\e[?25h"
+  - delay: 450
+    content: "\e[?25l\e[m\e[?25h"
+  - delay: 9
+    content: "\e[?25l\e[93m\e[10;4HConvertTo-L\e[?25h"
+  - delay: 183
+    content: "\e[?25l\e[m\e[?25h"
+  - delay: 10
+    content: "\e[?25l\e[93m\e[10;4HConvertTo-La\e[?25h"
+  - delay: 260
+    content: "\e[m"
+  - delay: 69
+    content: "\e[?25l\e[93m\e[10;4HConvertTo-LatinTransliteration\e[?25h"
+  - delay: 501
+    content: "\e[?25l\e[m\e[?25h"
+  - delay: 9
+    content: "\e[?25l\e[93m\e[10;4HConvertTo-LatinTransliteration\e[m \e[?25h"
+  - delay: 1203
+    content: "\e[?25l\e[?25h"
+  - delay: 9
+    content: "\e[?25l\e[93m\e[10;4HConvertTo-LatinTransliteration\e[m -\e[?25h"
+  - delay: 423
+    content: "\e[?25l\e[?25h"
+  - delay: 9
+    content: "\e[?25l\e[93m\e[10;4HConvertTo-LatinTransliteration\e[m \e[90m-L\e[?25h"
+  - delay: 182
+    content: "\e[?25l\e[m\e[?25h"
+  - delay: 10
+    content: "\e[?25l\e[93m\e[10;4HConvertTo-LatinTransliteration\e[m \e[90m-La\e[?25h"
+  - delay: 230
+    content: "\e[m"
+  - delay: 10
+    content: "\e[?25l\e[?25h"
+  - delay: 9
+    content: "\e[?25l\e[93m\e[10;4HConvertTo-LatinTransliteration\e[m \e[90m-Language\e[?25h"
+  - delay: 316
+    content: "\e[?25l\e[m\e[?25h"
+  - delay: 9
+    content: "\e[?25l\e[93m\e[10;4HConvertTo-LatinTransliteration\e[m \e[90m-Language\e[m \e[?25h"
+  - delay: 1530
+    content: "\e[?25l\e[?25h"
+  - delay: 8
+    content: "\e[?25l\e[93m\e[10;4HConvertTo-LatinTransliteration\e[m \e[90m-Language\e[m R\e[?25h"
+  - delay: 499
+    content: "\e[?25l\e[93m\e[10;4HConvertTo-LatinTransliteration\e[m \e[90m-Language\e[m Russian\e[?25h"
+  - delay: 592
+    content: "\e[?25l\e[?25h"
+  - delay: 9
+    content: "\e[?25l\e[93m\e[10;4HConvertTo-LatinTransliteration\e[m \e[90m-Language\e[m Russian \e[?25h"
+  - delay: 6650
+    content: "\e[?25l\e[?25h"
+  - delay: 10
+    content: "\e[?25l\e[91m\e[10;2H> \e[93mConvertTo-LatinTransliteration\e[m \e[90m-Language\e[m Russian \e[36m\"\e[?25h"
+  - delay: 9
+    content: "\e[?25l\e[m\e[93m\e[10;4HConvertTo-LatinTransliteration\e[m \e[90m-Language\e[m Russian \e[36m\"Съешь ещё этих мягких французских бу\e[?25h"
+  - delay: 9
+    content: "\e[?25l\e[m\e[10;2H> \e[93mConvertTo-LatinTransliteration\e[m \e[90m-Language\e[m Russian \e[36m\"Съешь ещё этих мягких французских булок\"\e[?25h"
+  - delay: 535
+    content: "\e[?25l\e[m\e[?25h"
+  - delay: 10
+    content: "\e[?25l\r\n\e[?25h"
+  - delay: 45
+    content: "\e[?25lSъesh` eshhё эty`x myahky`x franczuzsky`x bulok\e[?25h"
+  - delay: 8
+    content: "\e[?25l\r\n\e[?25h"
+  - delay: 43
+    content: "\e[?25lPS>\e[?25h"
+  - delay: 2380
+    content: "\e[?25l\e[?25h"
+  - delay: 10
+    content: "\e[93mC"
+  - delay: 263
+    content: "\e[?25l\e[m\e[?25h"
+  - delay: 9
+    content: "\e[?25l\e[93m\bCo\e[?25h"
+  - delay: 134
+    content: "\e[?25l\e[m\e[?25h"
+  - delay: 9
+    content: "\e[?25l\e[93m\e[12;4HCon\e[?25h"
+  - delay: 102
+    content: "\e[?25l\e[m\e[?25h"
+  - delay: 9
+    content: "\e[?25l\e[93m\e[12;4HConv\e[?25h"
+  - delay: 88
+    content: "\e[?25l\e[m\e[?25h"
+  - delay: 9
+    content: "\e[?25l\e[93m\e[12;4HConve\e[?25h"
+  - delay: 143
+    content: "\e[?25l\e[m\e[?25h"
+  - delay: 10
+    content: "\e[?25l\e[93m\e[12;4HConver\e[?25h"
+  - delay: 139
+    content: "\e[?25l\e[m\e[?25h"
+  - delay: 8
+    content: "\e[?25l\e[93m\e[12;4HConvert\e[?25h"
+  - delay: 254
+    content: "\e[?25l\e[m\e[?25h"
+  - delay: 8
+    content: "\e[?25l\e[93m\e[12;4HConvert-\e[?25h"
+  - delay: 369
+    content: "\e[?25l\e[m\e[?25h"
+  - delay: 8
+    content: "\e[?25l\e[93m\e[12;4HConvert-T\e[?25h"
+  - delay: 219
+    content: "\e[?25l\e[m\e[?25h"
+  - delay: 10
+    content: "\e[?25l\e[93m\e[12;4HConvert-To\e[?25h"
+  - delay: 834
+    content: "\e[?25l\e[m\e[?25h"
+  - delay: 9
+    content: "\e[?25l\e[93m\e[12;4HConvert-T\e[m \b\e[?25h"
+  - delay: 308
+    content: "\e[?25l\e[?25h"
+  - delay: 8
+    content: "\e[?25l\e[93m\e[12;4HConvert-\e[m \b\e[?25h"
+  - delay: 152
+    content: "\e[?25l\e[?25h"
+  - delay: 9
+    content: "\e[?25l\e[93m\e[12;4HConvert\e[m \b\e[?25h"
+  - delay: 631
+    content: "\e[?25l\e[?25h"
+  - delay: 10
+    content: "\e[?25l\e[93m\e[12;4HConvertT\e[?25h"
+  - delay: 271
+    content: "\e[?25l\e[m\e[?25h"
+  - delay: 10
+    content: "\e[?25l\e[93m\e[12;4HConvertTo\e[?25h"
+  - delay: 555
+    content: "\e[?25l\e[m\e[?25h"
+  - delay: 8
+    content: "\e[?25l\e[93m\e[12;4HConvertTo-\e[?25h"
+  - delay: 389
+    content: "\e[?25l\e[m\e[?25h"
+  - delay: 8
+    content: "\e[?25l\e[93m\e[12;4HConvertTo-L\e[?25h"
+  - delay: 185
+    content: "\e[?25l\e[m\e[?25h"
+  - delay: 9
+    content: "\e[?25l\e[93m\e[12;4HConvertTo-La\e[?25h"
+  - delay: 233
+    content: "\e[m"
+  - delay: 67
+    content: "\e[?25l\e[93m\e[12;4HConvertTo-LatinTransliteration\e[?25h"
+  - delay: 768
+    content: "\e[?25l\e[m\e[?25h"
+  - delay: 9
+    content: "\e[?25l\e[93m\e[12;4HConvertTo-LatinTransliteration\e[m \e[?25h"
+  - delay: 1052
+    content: "\e[?25l\e[?25h"
+  - delay: 10
+    content: "\e[?25l\e[93m\e[12;4HConvertTo-LatinTransliteration\e[m -\e[?25h"
+  - delay: 470
+    content: "\e[?25l\e[?25h"
+  - delay: 9
+    content: "\e[?25l\e[93m\e[12;4HConvertTo-LatinTransliteration\e[m \e[90m-L\e[?25h"
+  - delay: 390
+    content: "\e[?25l\e[m\e[?25h"
+  - delay: 9
+    content: "\e[?25l\e[93m\e[12;4HConvertTo-LatinTransliteration\e[m \e[90m-La\e[?25h"
+  - delay: 342
+    content: "\e[m"
+  - delay: 9
+    content: "\e[?25l\e[93m\e[12;4HConvertTo-LatinTransliteration\e[m \e[90m-Language\e[?25h"
+  - delay: 526
+    content: "\e[m"
+  - delay: 11
+    content: "\e[?25l\e[93m\e[12;4HConvertTo-LatinTransliteration\e[m \e[90m-Language\e[?25h"
+  - delay: 8
+    content: "\e[?25l\e[m\e[?25h"
+  - delay: 467
+    content: "\e[?25l\e[93m\e[12;4HConvertTo-LatinTransliteration\e[m \e[90m-Language\e[?25h"
+  - delay: 526
+    content: "\e[?25l\e[m\e[?25h"
+  - delay: 12
+    content: "\e[?25l\e[93m\e[12;4HConvertTo-LatinTransliteration\e[m \e[90m-Language\e[m \e[?25h"
+  - delay: 284
+    content: "\e[?25l\e[93m\e[12;4HConvertTo-LatinTransliteration\e[m \e[90m-Language\e[m Belorussian\e[?25h"
+  - delay: 1000
+    content: "\e[?25l\e[?25h"
+  - delay: 9
+    content: "\e[?25l\e[93m\e[12;4HConvertTo-LatinTransliteration\e[m \e[90m-Language\e[m Bulgarian  \e[12;54H\e[?25h"
+  - delay: 266
+    content: "\e[?25l\e[?25h"
+  - delay: 10
+    content: "\e[?25l\e[93m\e[12;4HConvertTo-LatinTransliteration\e[m \e[90m-Language\e[m Macedonian\e[?25h"
+  - delay: 195
+    content: "\e[?25l\e[?25h"
+  - delay: 9
+    content: "\e[?25l\e[93m\e[12;4HConvertTo-LatinTransliteration\e[m \e[90m-Language\e[m Russian   \e[12;52H\e[?25h"
+  - delay: 699
+    content: "\e[?25l\e[?25h"
+  - delay: 9
+    content: "\e[?25l\e[93m\e[12;4HConvertTo-LatinTransliteration\e[m \e[90m-Language\e[m Ukrainian\e[?25h"
+  - delay: 600
+    content: "\e[?25l\e[?25h"
+  - delay: 9
+    content: "\e[?25l\e[93m\e[12;4HConvertTo-LatinTransliteration\e[m \e[90m-Language\e[m Belorussian\e[?25h"
+  - delay: 1005
+    content: "\e[?25l\e[?25h"
+  - delay: 10
+    content: "\e[?25l\e[93m\e[12;4HConvertTo-LatinTransliteration\e[m \e[90m-Language\e[m Belorussian \e[?25h"
+  - delay: 6138
+    content: "\e[?25l\e[?25h"
+  - delay: 9
+    content: "\e[?25l\e[93m\e[12;4HConvertTo-LatinTransliteration\e[m \e[90m-Language\e[m Belorussian  \e[?25h"
+  - delay: 8
+    content: "\e[?25l\e[91m\e[12;2H> \e[93mConvertTo-LatinTransliteration\e[m \e[90m-Language\e[m Belorussian  \e[36m\"\e[?25h"
+  - delay: 18
+    content: "\e[?25l\e[m\e[?25h"
+  - delay: 9
+    content: "\e[?25l\e[36m\e[m\rP\e[91m> \e[93mConvertTo-LatinTransliteration\e[m \e[90m-Language\e[m Belorussian  \e[36m\"Малюся я небу, зямлі і прастору.Магутнаму Богу - Ўсясвету малю\r\nсь. Ва ўсякай прыгодзе, ва ўсякую пору За родны народ Беларусі.\e[m\e[57X\e[57C\e[?25h"
+  - delay: 10
+    content: "\e[?25l\e[12;1HP> \e[93mConvertTo-LatinTransliteration\e[m \e[90m-Language\e[m Belorussian  \e[36m\"Малюся я небу, зямлі і прастору.Магутнаму Богу - Ўсясвету малю\r\nсь. Ва ўсякай прыгодзе, ва ўсякую пору За родны народ Беларусі.\"\e[m\e[56X\e[56C\e[13;65H\e[?25h"
+  - delay: 687
+    content: "\e[?25l\e[?25h"
+  - delay: 8
+    content: "\e[?25l\r\n\e[?25h"
+  - delay: 9
+    content: "\e[?25lMalyusya ya nebu, zyamlі і prastoru.Mahutnamu Bohu - Ўsyasvetu malyus`. Va ўsyakaj prыhodze, va ўsyakuyu poru Za rodnы n\r\narod Belarusі.\e[106X\e[106C\r\n\e[?25h"
+  - delay: 42
+    content: "\e[?25lPS>\e[?25h"
+  - delay: 2370
+    content: "\e[?25l\e[?25h"
+  - delay: 9
+    content: "\e[93mC"
+  - delay: 263
+    content: "\e[?25l\e[m\e[?25h"
+  - delay: 9
+    content: "\e[?25l\e[93m\bCo\e[?25h"
+  - delay: 143
+    content: "\e[?25l\e[m\e[?25h"
+  - delay: 8
+    content: "\e[?25l\e[93m\e[16;4HCon\e[?25h"
+  - delay: 81
+    content: "\e[?25l\e[m\e[?25h"
+  - delay: 9
+    content: "\e[?25l\e[93m\e[16;4HConv\e[?25h"
+  - delay: 86
+    content: "\e[?25l\e[m\e[?25h"
+  - delay: 9
+    content: "\e[?25l\e[93m\e[16;4HConve\e[?25h"
+  - delay: 151
+    content: "\e[?25l\e[m\e[?25h"
+  - delay: 9
+    content: "\e[?25l\e[93m\e[16;4HConver\e[?25h"
+  - delay: 151
+    content: "\e[?25l\e[m\e[?25h"
+  - delay: 9
+    content: "\e[?25l\e[93m\e[16;4HConvert\e[?25h"
+  - delay: 398
+    content: "\e[?25l\e[m\e[?25h"
+  - delay: 11
+    content: "\e[?25l\e[93m\e[16;4HConvert-\e[?25h"
+  - delay: 492
+    content: "\e[?25l\e[m\e[?25h"
+  - delay: 9
+    content: "\e[?25l\e[93m\e[16;4HConvert-T\e[?25h"
+  - delay: 344
+    content: "\e[?25l\e[m\e[?25h"
+  - delay: 9
+    content: "\e[?25l\e[93m\e[16;4HConvert-\e[m \b\e[?25h"
+  - delay: 149
+    content: "\e[?25l\e[?25h"
+  - delay: 10
+    content: "\e[?25l\e[93m\e[16;4HConvert\e[m \b\e[?25h"
+  - delay: 510
+    content: "\e[?25l\e[?25h"
+  - delay: 9
+    content: "\e[?25l\e[93m\e[16;4HConvertT\e[?25h"
+  - delay: 263
+    content: "\e[?25l\e[m\e[?25h"
+  - delay: 9
+    content: "\e[?25l\e[93m\e[16;4HConvertTo\e[?25h"
+  - delay: 813
+    content: "\e[?25l\e[m\e[?25h"
+  - delay: 10
+    content: "\e[?25l\e[93m\e[16;4HConvertTo-\e[?25h"
+  - delay: 405
+    content: "\e[?25l\e[m\e[?25h"
+  - delay: 9
+    content: "\e[?25l\e[93m\e[16;4HConvertTo-L\e[?25h"
+  - delay: 188
+    content: "\e[?25l\e[m\e[?25h"
+  - delay: 5
+    content: "\e[?25l\e[93m\e[16;4HConvertTo-La\e[?25h"
+  - delay: 243
+    content: "\e[m"
+  - delay: 70
+    content: "\e[?25l\e[93m\e[16;4HConvertTo-LatinTransliteration\e[?25h"
+  - delay: 399
+    content: "\e[?25l\e[m\e[?25h"
+  - delay: 10
+    content: "\e[?25l\e[93m\e[16;4HConvertTo-LatinTransliteration\e[m \e[?25h"
+  - delay: 1137
+    content: "\e[?25l\e[?25h"
+  - delay: 10
+    content: "\e[?25l\e[93m\e[16;4HConvertTo-LatinTransliteration\e[m -\e[?25h"
+  - delay: 453
+    content: "\e[?25l\e[?25h"
+  - delay: 9
+    content: "\e[?25l\e[93m\e[16;4HConvertTo-LatinTransliteration\e[m \e[90m-L\e[?25h"
+  - delay: 206
+    content: "\e[?25l\e[m\e[?25h"
+  - delay: 8
+    content: "\e[?25l\e[93m\e[16;4HConvertTo-LatinTransliteration\e[m \e[90m-La\e[?25h"
+  - delay: 300
+    content: "\e[m"
+  - delay: 10
+    content: "\e[?25l\e[93m\e[16;4HConvertTo-LatinTransliteration\e[m \e[90m-Language\e[?25h"
+  - delay: 397
+    content: "\e[?25l\e[m\e[?25h"
+  - delay: 5
+    content: "\e[?25l\e[93m\e[16;4HConvertTo-LatinTransliteration\e[m \e[90m-Language\e[m \e[?25h"
+  - delay: 845
+    content: "\e[?25l\e[?25h"
+  - delay: 13
+    content: "\e[?25l\e[93m\e[16;4HConvertTo-LatinTransliteration\e[m \e[90m-Language\e[m U\e[?25h"
+  - delay: 436
+    content: "\e[?25l\e[93m\e[16;4HConvertTo-LatinTransliteration\e[m \e[90m-Language\e[m Ukrainian\e[?25h"
+  - delay: 5
+    content: "\e[?25l\e[?25h"
+  - delay: 639
+    content: "\e[?25l\e[?25h"
+  - delay: 7
+    content: "\e[?25l\e[93m\e[16;4HConvertTo-LatinTransliteration\e[m \e[90m-Language\e[m Ukrainian \e[?25h"
+  - delay: 4696
+    content: "\e[?25l\e[?25h"
+  - delay: 9
+    content: "\e[?25l\e[91m\e[16;2H> \e[93mConvertTo-LatinTransliteration\e[m \e[90m-Language\e[m Ukrainian \e[36m\"\e[?25h"
+  - delay: 9
+    content: "\e[?25l\e[93m\e[16;4HConvertTo-LatinTransliteration\e[m \e[90m-Language\e[m Ukrainian \e[36m\"На подушечці форми любої є й ґудзик щоб пір'я геть жовте\e[?25h"
+  - delay: 9
+    content: "\e[?25l\e[m\e[93m\e[16;4HConvertTo-LatinTransliteration\e[m \e[90m-Language\e[m Ukrainian \e[36m\"На подушечці форми любої є й ґудзик щоб пір'я геть жовте сховат\e[?25h"
+  - delay: 9
+    content: "\e[?25l\e[m\e[16;2H> \e[93mConvertTo-LatinTransliteration\e[m \e[90m-Language\e[m Ukrainian \e[36m\"На подушечці форми любої є й ґудзик щоб пір'я геть жовте сховати\"\r\n\e[?25h"
+  - delay: 1063
+    content: "\e[?25l\e[m\e[?25h"
+  - delay: 9
+    content: "\e[?25l\r\nNa podushechczі formy` lyuboyi ye j g`udzy`k shhob pіr'ya het` zhovte sxovaty`\r\n\e[?25h"
+  - delay: 46
+    content: "\e[?25lPS>\e[?25h"
+  - delay: 1505
+    content: "\e[?25l\e[?25h"
+  - delay: 10
+    content: "\e[93mC"
+  - delay: 285
+    content: "\e[?25l\e[m\e[?25h"
+  - delay: 7
+    content: "\e[?25l\e[93m\bCo\e[?25h"
+  - delay: 184
+    content: "\e[?25l\e[m\e[?25h"
+  - delay: 9
+    content: "\e[?25l\e[93m\e[19;4HCon\e[?25h"
+  - delay: 1614
+    content: "\e[?25l\e[m\e[?25h"
+  - delay: 8
+    content: "\e[?25l\e[93m\e[19;4HConv\e[?25h"
+  - delay: 88
+    content: "\e[?25l\e[m\e[?25h"
+  - delay: 9
+    content: "\e[?25l\e[93m\e[19;4HConve\e[?25h"
+  - delay: 133
+    content: "\e[?25l\e[m\e[?25h"
+  - delay: 9
+    content: "\e[?25l\e[93m\e[19;4HConver\e[?25h"
+  - delay: 166
+    content: "\e[?25l\e[m\e[?25h"
+  - delay: 8
+    content: "\e[?25l\e[93m\e[19;4HConvert\e[?25h"
+  - delay: 563
+    content: "\e[?25l\e[m\e[?25h"
+  - delay: 12
+    content: "\e[?25l\e[93m\e[19;4HConvertF\e[?25h"
+  - delay: 193
+    content: "\e[?25l\e[m\e[?25h"
+  - delay: 9
+    content: "\e[?25l\e[93m\e[19;4HConvertFr\e[?25h"
+  - delay: 150
+    content: "\e[?25l\e[m\e[?25h"
+  - delay: 8
+    content: "\e[?25l\e[93m\e[19;4HConvertFro\e[?25h"
+  - delay: 105
+    content: "\e[?25l\e[m\e[?25h"
+  - delay: 9
+    content: "\e[?25l\e[93m\e[19;4HConvertFrom\e[?25h"
+  - delay: 813
+    content: "\e[?25l\e[m\e[?25h"
+  - delay: 9
+    content: "\e[?25l\e[93m\e[19;4HConvertFrom-\e[?25h"
+  - delay: 589
+    content: "\e[?25l\e[m\e[?25h"
+  - delay: 8
+    content: "\e[?25l\e[93m\e[19;4HConvertFrom-L\e[?25h"
+  - delay: 334
+    content: "\e[m"
+  - delay: 60
+    content: "\e[?25l\e[93m\e[19;4HConvertFrom-LatinTransliteration\e[?25h"
+  - delay: 716
+    content: "\e[?25l\e[m\e[?25h"
+  - delay: 9
+    content: "\e[?25l\e[93m\e[19;4HConvertFrom-LatinTransliteration\e[m \e[?25h"
+  - delay: 892
+    content: "\e[?25l\e[?25h"
+  - delay: 10
+    content: "\e[?25l\e[93m\e[19;4HConvertFrom-LatinTransliteration\e[m -\e[?25h"
+  - delay: 438
+    content: "\e[?25l\e[?25h"
+  - delay: 8
+    content: "\e[?25l\e[93m\e[19;4HConvertFrom-LatinTransliteration\e[m \e[90m-L\e[?25h"
+  - delay: 216
+    content: "\e[?25l\e[m\e[?25h"
+  - delay: 8
+    content: "\e[?25l\e[93m\e[19;4HConvertFrom-LatinTransliteration\e[m \e[90m-La\e[?25h"
+  - delay: 196
+    content: "\e[m"
+  - delay: 10
+    content: "\e[?25l\e[93m\e[19;4HConvertFrom-LatinTransliteration\e[m \e[90m-Language\e[?25h"
+  - delay: 703
+    content: "\e[?25l\e[m\e[?25h"
+  - delay: 12
+    content: "\e[?25l\e[93m\e[19;4HConvertFrom-LatinTransliteration\e[m \e[90m-Language\e[m \e[?25h"
+  - delay: 2002
+    content: "\e[?25l\e[?25h"
+  - delay: 10
+    content: "\e[?25l\e[93m\e[19;4HConvertFrom-LatinTransliteration\e[m \e[90m-Language\e[m R\e[?25h"
+  - delay: 246
+    content: "\e[?25l\e[?25h"
+  - delay: 8
+    content: "\e[?25l\e[93m\e[19;4HConvertFrom-LatinTransliteration\e[m \e[90m-Language\e[m Ru\e[?25h"
+  - delay: 207
+    content: "\e[?25l\e[93m\e[19;4HConvertFrom-LatinTransliteration\e[m \e[90m-Language\e[m Russian\e[?25h"
+  - delay: 542
+    content: "\e[?25l\e[?25h"
+  - delay: 9
+    content: "\e[?25l\e[93m\e[19;4HConvertFrom-LatinTransliteration\e[m \e[90m-Language\e[m Russian \e[?25h"
+  - delay: 27909
+    content: "\e[?25l\e[?25h"
+  - delay: 8
+    content: "\e[?25l\e[91m\e[19;2H> \e[93mConvertFrom-LatinTransliteration\e[m \e[90m-Language\e[m Russian \e[36m\"Y\e[?25h"
+  - delay: 15
+    content: "\e[?25l\e[m\e[?25h"
+  - delay: 9
+    content: "\e[?25l\rP\e[91m> \e[93mConvertFrom-LatinTransliteration\e[m \e[90m-Language\e[m Russian \e[36m\"Ya zh pojdu pohulyayu, Beluyu beryozu zalomayu. Lyuli lyuli, zalo\r\nmayu,Lyuli lyuli, zalomayu.\e[m\e[93X\e[93C\e[?25h"
+  - delay: 9
+    content: "\e[?25l\e[19;1HP> \e[93mConvertFrom-LatinTransliteration\e[m \e[90m-Language\e[m Russian \e[36m\"Ya zh pojdu pohulyayu, Beluyu beryozu zalomayu. Lyuli lyuli, zalo\r\nmayu,Lyuli lyuli, zalomayu.\"\e[m;\e[91X\e[91C\e[20;30H\e[?25h"
+  - delay: 829
+    content: "\e[?25l\e[?25h"
+  - delay: 9
+    content: "\e[?25l\r\n\e[?25h"
+  - delay: 85
+    content: "\e[?25lЯ ж пойду погуляю, Белую берyозу заломаю. Люли люли, заломаю,Люли люли, заломаю.\e[?25h"
+  - delay: 8
+    content: "\e[?25l\r\n\e[?25h"
+  - delay: 40
+    content: "\e[?25lPS>\e[?25h"
+  - delay: 6626
+    content: "\e[?25l\e[?25h"
+  - delay: 9
+    content: "\e[93me"
+  - delay: 71
+    content: "\e[?25l\e[m\e[?25h"
+  - delay: 9
+    content: "\e[?25l\e[93m\bex\e[?25h"
+  - delay: 132
+    content: "\e[?25l\e[m\e[?25h"
+  - delay: 8
+    content: "\e[?25l\e[93m\e[22;4Hexi\e[?25h"
+  - delay: 136
+    content: "\e[?25l\e[m\e[?25h"
+  - delay: 8
+    content: "\e[?25l\e[92m\e[22;4Hexit\e[?25h"
+  - delay: 789
+    content: "\e[?25l\e[m\e[?25h"
+  - delay: 19
+    content: "\e[?25l\r\n\e[?25h"
