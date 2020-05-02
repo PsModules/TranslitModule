@@ -1,11 +1,9 @@
-# TranslitModule - Cyrillic/Latin text transliteration
+# Translit - Cyrillic/Latin text transliteration
 
-The funtionality of this module is based on Transliteration Nuget Library
-Nuget: [![NuGet Badge](https://buildstats.info/nuget/NickBuhro.Translit)](https://www.nuget.org/packages/NickBuhro.Translit/)
 
-[![PowerShell 3](https://Stadub-Gh.visualstudio.com/PowershellScripts/_apis/build/status/TranslitModule?branchName=master)](https://Stadub-Gh.visualstudio.com/PowershellBinary/_build/latest?definitionId=3?branchName=master)
-[![PowerShell 4, 5 & Core on Windows build](https://ci.appveyor.com/api/projects/status/7tmg8wy30ipanjsd?svg=true)](https://ci.appveyor.com/project/stadub/PowershellBinary)
-[![Linux & MacOS build](https://img.shields.io/travis/stadub/PowershellBinary/master.svg?label=linux/macos+build)](https://travis-ci.org/stadub/PowershellBinary)
+[![PowerShell 3](https://Stadub-Gh.visualstudio.com/PowershellScripts/_apis/build/status/TranslitModule?branchName=master)](https://Stadub-Gh.visualstudio.com/TranslitModule/_build/latest?definitionId=3?branchName=master)
+[![PowerShell 4, 5 & Core on Windows build](https://ci.appveyor.com/api/projects/status/7tmg8wy30ipanjsd?svg=true)](https://ci.appveyor.com/project/stadub/TranslitModule)
+[![Linux & MacOS build](https://img.shields.io/travis/stadub/PowershellBinary/master.svg?label=linux/macos+build)](https://travis-ci.org/stadub/TranslitModule)
 [![latest version](https://img.shields.io/powershellgallery/v/TranslitModule.svg?label=latest+version)](https://www.powershellgallery.com/packages/TranslitModule/)
 [![downloads](https://img.shields.io/powershellgallery/dt/TranslitModule.svg?label=downloads)](https://www.powershellgallery.com/packages/TranslitModule)
 
@@ -13,11 +11,14 @@ Nuget: [![NuGet Badge](https://buildstats.info/nuget/NickBuhro.Translit)](https:
 
 ![ConsoleDemo](https://raw.githubusercontent.com/PsModules/TranslitModule/master/Assets/demo.gif)
 
+The functionality of this module is based on Transliteration Nuget Library
+Nuget: [![NuGet Badge](https://buildstats.info/nuget/NickBuhro.Translit)](https://www.nuget.org/packages/NickBuhro.Translit/)
+
 ## Instalation
 
 Powershell Gallery:
 
-[![https://www.powershellgallery.com/packages/TranslitModuel/](https://img.shields.io/badge/PowerShell%20Gallery-download-blue.svg?style=popout&logo=powershell)](https://www.powershellgallery.com/packages/Bookmarks/)
+[![https://www.powershellgallery.com/packages/TranslitModule/](https://img.shields.io/badge/PowerShell%20Gallery-download-blue.svg?style=popout&logo=powershell)](https://www.powershellgallery.com/packages/TranslitModule/)
 
 `PowerShellGet` Installation :
 
