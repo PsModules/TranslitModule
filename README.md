@@ -1,6 +1,7 @@
 # TranslitModule - Cyrillic/Latin text transliteration
 
-The module is based on Transliteration Nuget Library [![NuGet Badge](https://buildstats.info/nuget/NickBuhro.Translit)](https://www.nuget.org/packages/NickBuhro.Translit/)
+The funtionality of this module is based on Transliteration Nuget Library
+Nuget: [![NuGet Badge](https://buildstats.info/nuget/NickBuhro.Translit)](https://www.nuget.org/packages/NickBuhro.Translit/)
 
 [![PowerShell 3](https://Stadub-Gh.visualstudio.com/PowershellScripts/_apis/build/status/TranslitModule?branchName=master)](https://Stadub-Gh.visualstudio.com/PowershellBinary/_build/latest?definitionId=3?branchName=master)
 [![PowerShell 4, 5 & Core on Windows build](https://ci.appveyor.com/api/projects/status/7tmg8wy30ipanjsd?svg=true)](https://ci.appveyor.com/project/stadub/PowershellBinary)
