@@ -16,8 +16,13 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8385e618-826a-42fe-9820-cfa75c1f88a7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="8385e618-826a-42fe-9820-cfa75c1f88a7" name="Default Changelist" comment="fix powershell gallery link">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TranslitModule/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TranslitModule/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TranslitModule/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TranslitModule/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets.shproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets.shproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Souces/TranslitModule.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Souces/TranslitModule.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TranslitModule.psd1" beforeDir="false" afterPath="$PROJECT_DIR$/TranslitModule.psd1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TranslitModule.psm1" beforeDir="false" afterPath="$PROJECT_DIR$/TranslitModule.psm1" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,20 +39,21 @@
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DB97D0C9-FC50-47C8-A021-39AABCE40627/97/d443bda8/Transliteration.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6155F331-8358-4C0C-9FDC-712229CEFC80/ec/11cbcb98/ModuleSpecification.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Souces/ParameterSet.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Tests/RussianTransliterationUnitTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///CyrillicToLatinCmdletCommand.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/C33AFD71-6EE0-4892-B8AD-69B81D88AE1C/21/Environment.CoreCLR.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Tests/RussianTransliterationUnitTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Tests/obj/Debug/netcoreapp3.1/ModuleTests.AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/377B61B6-13EA-444F-826F-377D9474FFCA/22/f0576bf3/TestInvoker`1.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Souces/LatinToCyrillicCmdletCommand.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Souces/LangHelpers.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Tests/BelarusianTransliterationUnitTest.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/08130D46-68CA-468E-832A-AA2782232CEF/25/25bb3c09/Cmdlet.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///LatinToCyrillicCmdletCommand.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Souces/CyrillicToLatinCmdletCommand.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6155F331-8358-4C0C-9FDC-712229CEFC80/bf/9f469c1c/PSCmdlet.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6155F331-8358-4C0C-9FDC-712229CEFC80/37/48762139/Cmdlet.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DB97D0C9-FC50-47C8-A021-39AABCE40627/03/d5d23a1b/Language.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6155F331-8358-4C0C-9FDC-712229CEFC80/37/48762139/Cmdlet.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C8DD3146-8EA2-4CF8-9B5B-DECA5FD2B7CB/5b/ee94237d/AssemblyInfo.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6155F331-8358-4C0C-9FDC-712229CEFC80/3b/86defa97/CommandOrigin.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6155F331-8358-4C0C-9FDC-712229CEFC80/20/53a56604/Command.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/8517F607-C12A-4B50-8364-C3F896F0FE6F/45/8e881e44/Assert.cs" root0="SKIP_HIGHLIGHTING" />
@@ -73,13 +79,15 @@
         <option value="$PROJECT_DIR$/azure-pipelines.yml" />
         <option value="$PROJECT_DIR$/Souces/LangHelpers.cs" />
         <option value="$PROJECT_DIR$/Tests/RussianTransliterationUnitTest.cs" />
-        <option value="$PROJECT_DIR$/TranslitModule.psd1" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/TranslitModule.sln" />
+        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/TranslitModule.psm1" />
         <option value="$PROJECT_DIR$/Souces/LatinToCyrillicCmdletCommand.cs" />
         <option value="$PROJECT_DIR$/Souces/CyrillicToLatinCmdletCommand.cs" />
-        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/Assets/Assets.shproj" />
         <option value="$PROJECT_DIR$/Souces/TranslitModule.csproj" />
-        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/TranslitModule.psd1" />
       </list>
     </option>
   </component>
@@ -96,10 +104,10 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="AngularJS" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Publish to folder.Publish TranslitModule to folder">
-    <configuration name="CombineModule" type="DotNetFolderPublish" factoryName="Publish to folder" temporary="true">
+  <component name="RunManager" selected="Publish to folder.PublishToOut">
+    <configuration name="CombineModule" type="DotNetFolderPublish" factoryName="Publish to folder">
       <riderPublish runtime="Portable" target_folder="$PROJECT_DIR$/Out" target_framework="netstandard2.0" uuid_high="3835705925450747363" uuid_low="-6585032469571431914" />
       <method v="2">
         <option name="CleanProject" default="false" projectName="TranslitModule" projectPath="C:\Users\sync\source\repos\TranslitModule\Souces\TranslitModule.csproj" />
@@ -107,16 +115,35 @@
         <option name="Build Solution" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Publish TranslitModule to folder" type="DotNetFolderPublish" factoryName="Publish to folder" temporary="true">
-      <riderPublish uuid_high="3835705925450747363" uuid_low="-6585032469571431914" />
-      <method v="2" />
+    <configuration name="PublishToOut" type="DotNetFolderPublish" factoryName="Publish to folder">
+      <riderPublish runtime="win-x64" target_folder="$PROJECT_DIR$/Out" target_framework="netstandard2.0" uuid_high="3835705925450747363" uuid_low="-6585032469571431914" />
+      <method v="2">
+        <option name="ToolBeforeRunTask" enabled="true" actionId="Tool_External Tools_test" />
+      </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Publish to folder.Publish TranslitModule to folder" />
-        <item itemvalue="Publish to folder.CombineModule" />
-      </list>
-    </recent_temporary>
+    <configuration name="Build" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" default="false" projectName="TranslitModule" projectPath="C:\Users\sync\source\repos\TranslitModule\Souces\TranslitModule.csproj" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue=".NET Project.Build" />
+      <item itemvalue="Publish to folder.PublishToOut" />
+      <item itemvalue="Publish to folder.CombineModule" />
+    </list>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -136,7 +163,8 @@
       <workItem from="1588069792221" duration="49000" />
       <workItem from="1588070833813" duration="1379000" />
       <workItem from="1588072942857" duration="592000" />
-      <workItem from="1588075086650" duration="34744000" />
+      <workItem from="1588075086650" duration="47688000" />
+      <workItem from="1588417448509" duration="8157000" />
     </task>
     <task id="LOCAL-00001" summary="add module binaries">
       <created>1588375252310</created>
@@ -201,7 +229,35 @@
       <option name="project" value="LOCAL" />
       <updated>1588375514253</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="rider config">
+      <created>1588375627862</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1588375627862</updated>
+    </task>
+    <task id="LOCAL-00011" summary="fix lang detection">
+      <created>1588447339246</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1588447339247</updated>
+    </task>
+    <task id="LOCAL-00012" summary="remove idea ignore">
+      <created>1588447363335</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1588447363335</updated>
+    </task>
+    <task id="LOCAL-00013" summary="fix powershell gallery link">
+      <created>1588447436404</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1588447436404</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -244,6 +300,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
@@ -256,17 +313,33 @@
     <MESSAGE value="assets files" />
     <MESSAGE value="assets project" />
     <MESSAGE value="build scripts" />
-    <option name="LAST_COMMIT_MESSAGE" value="build scripts" />
+    <MESSAGE value="rider config" />
+    <MESSAGE value="fix lang detection" />
+    <MESSAGE value="remove idea ignore" />
+    <MESSAGE value="fix powershell gallery link" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix powershell gallery link" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="700" y="275" key="#Publish_TranslitModule_to_folder" timestamp="1588332002799">
+    <state x="700" y="275" key="#Publish_TranslitModule_to_folder" timestamp="1588420956822">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state x="700" y="275" key="#Publish_TranslitModule_to_folder/62.0.1858.1080@62.0.1858.1080" timestamp="1588332002799" />
+    <state x="700" y="275" key="#Publish_TranslitModule_to_folder/62.0.1858.1080@62.0.1858.1080" timestamp="1588420956822" />
+    <state x="464" y="390" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588421002878">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="464" y="390" key="#com.intellij.execution.impl.EditConfigurationsDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1588421002878" />
     <state x="752" y="342" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588372569157">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state x="752" y="342" key="#com.intellij.fileTypes.FileTypeChooser/62.0.1858.1080@62.0.1858.1080" timestamp="1588372569157" />
+    <state x="770" y="251" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1588420908214">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="770" y="251" key="#com.intellij.ide.macro.MacrosDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1588420908214" />
+    <state x="759" y="376" width="463" height="496" key="#com.intellij.tools.ToolEditorDialog" timestamp="1588420935240">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="759" y="376" width="463" height="496" key="#com.intellij.tools.ToolEditorDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1588420935240" />
     <state x="746" y="244" key="#xdebugger.evaluate" timestamp="1588202185306">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
@@ -275,86 +348,86 @@
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state width="484" height="464" key="DebuggerActiveHint/62.0.1858.1080@62.0.1858.1080" timestamp="1588331954169" />
-    <state width="907" height="364" key="GridCell.Tab.0.bottom" timestamp="1588374648923">
+    <state width="907" height="364" key="GridCell.Tab.0.bottom" timestamp="1588417182606">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state width="907" height="364" key="GridCell.Tab.0.bottom/62.0.1858.1080@62.0.1858.1080" timestamp="1588374648923" />
-    <state width="907" height="364" key="GridCell.Tab.0.center" timestamp="1588374648923">
+    <state width="907" height="364" key="GridCell.Tab.0.bottom/62.0.1858.1080@62.0.1858.1080" timestamp="1588417182606" />
+    <state width="907" height="364" key="GridCell.Tab.0.center" timestamp="1588417182606">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state width="907" height="364" key="GridCell.Tab.0.center/62.0.1858.1080@62.0.1858.1080" timestamp="1588374648923" />
-    <state width="907" height="364" key="GridCell.Tab.0.left" timestamp="1588374648923">
+    <state width="907" height="364" key="GridCell.Tab.0.center/62.0.1858.1080@62.0.1858.1080" timestamp="1588417182606" />
+    <state width="907" height="364" key="GridCell.Tab.0.left" timestamp="1588417182606">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state width="907" height="364" key="GridCell.Tab.0.left/62.0.1858.1080@62.0.1858.1080" timestamp="1588374648923" />
-    <state width="907" height="364" key="GridCell.Tab.0.right" timestamp="1588374648923">
+    <state width="907" height="364" key="GridCell.Tab.0.left/62.0.1858.1080@62.0.1858.1080" timestamp="1588417182606" />
+    <state width="907" height="364" key="GridCell.Tab.0.right" timestamp="1588417182606">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state width="907" height="364" key="GridCell.Tab.0.right/62.0.1858.1080@62.0.1858.1080" timestamp="1588374648923" />
-    <state width="907" height="364" key="GridCell.Tab.1.bottom" timestamp="1588374648924">
+    <state width="907" height="364" key="GridCell.Tab.0.right/62.0.1858.1080@62.0.1858.1080" timestamp="1588417182606" />
+    <state width="907" height="364" key="GridCell.Tab.1.bottom" timestamp="1588417182606">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state width="907" height="364" key="GridCell.Tab.1.bottom/62.0.1858.1080@62.0.1858.1080" timestamp="1588374648924" />
-    <state width="907" height="364" key="GridCell.Tab.1.center" timestamp="1588374648923">
+    <state width="907" height="364" key="GridCell.Tab.1.bottom/62.0.1858.1080@62.0.1858.1080" timestamp="1588417182606" />
+    <state width="907" height="364" key="GridCell.Tab.1.center" timestamp="1588417182606">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state width="907" height="364" key="GridCell.Tab.1.center/62.0.1858.1080@62.0.1858.1080" timestamp="1588374648923" />
-    <state width="907" height="364" key="GridCell.Tab.1.left" timestamp="1588374648923">
+    <state width="907" height="364" key="GridCell.Tab.1.center/62.0.1858.1080@62.0.1858.1080" timestamp="1588417182606" />
+    <state width="907" height="364" key="GridCell.Tab.1.left" timestamp="1588417182606">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state width="907" height="364" key="GridCell.Tab.1.left/62.0.1858.1080@62.0.1858.1080" timestamp="1588374648923" />
-    <state width="907" height="364" key="GridCell.Tab.1.right" timestamp="1588374648923">
+    <state width="907" height="364" key="GridCell.Tab.1.left/62.0.1858.1080@62.0.1858.1080" timestamp="1588417182606" />
+    <state width="907" height="364" key="GridCell.Tab.1.right" timestamp="1588417182606">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state width="907" height="364" key="GridCell.Tab.1.right/62.0.1858.1080@62.0.1858.1080" timestamp="1588374648923" />
-    <state width="907" height="364" key="GridCell.Tab.2.bottom" timestamp="1588374648924">
+    <state width="907" height="364" key="GridCell.Tab.1.right/62.0.1858.1080@62.0.1858.1080" timestamp="1588417182606" />
+    <state width="907" height="364" key="GridCell.Tab.2.bottom" timestamp="1588417182607">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state width="907" height="364" key="GridCell.Tab.2.bottom/62.0.1858.1080@62.0.1858.1080" timestamp="1588374648924" />
-    <state width="907" height="364" key="GridCell.Tab.2.center" timestamp="1588374648924">
+    <state width="907" height="364" key="GridCell.Tab.2.bottom/62.0.1858.1080@62.0.1858.1080" timestamp="1588417182607" />
+    <state width="907" height="364" key="GridCell.Tab.2.center" timestamp="1588417182607">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state width="907" height="364" key="GridCell.Tab.2.center/62.0.1858.1080@62.0.1858.1080" timestamp="1588374648924" />
-    <state width="907" height="364" key="GridCell.Tab.2.left" timestamp="1588374648924">
+    <state width="907" height="364" key="GridCell.Tab.2.center/62.0.1858.1080@62.0.1858.1080" timestamp="1588417182607" />
+    <state width="907" height="364" key="GridCell.Tab.2.left" timestamp="1588417182606">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state width="907" height="364" key="GridCell.Tab.2.left/62.0.1858.1080@62.0.1858.1080" timestamp="1588374648924" />
-    <state width="907" height="364" key="GridCell.Tab.2.right" timestamp="1588374648924">
+    <state width="907" height="364" key="GridCell.Tab.2.left/62.0.1858.1080@62.0.1858.1080" timestamp="1588417182606" />
+    <state width="907" height="364" key="GridCell.Tab.2.right" timestamp="1588417182607">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state width="907" height="364" key="GridCell.Tab.2.right/62.0.1858.1080@62.0.1858.1080" timestamp="1588374648924" />
-    <state width="907" height="364" key="GridCell.Tab.3.bottom" timestamp="1588374648924">
+    <state width="907" height="364" key="GridCell.Tab.2.right/62.0.1858.1080@62.0.1858.1080" timestamp="1588417182607" />
+    <state width="907" height="364" key="GridCell.Tab.3.bottom" timestamp="1588417182607">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state width="907" height="364" key="GridCell.Tab.3.bottom/62.0.1858.1080@62.0.1858.1080" timestamp="1588374648924" />
-    <state width="907" height="364" key="GridCell.Tab.3.center" timestamp="1588374648924">
+    <state width="907" height="364" key="GridCell.Tab.3.bottom/62.0.1858.1080@62.0.1858.1080" timestamp="1588417182607" />
+    <state width="907" height="364" key="GridCell.Tab.3.center" timestamp="1588417182607">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state width="907" height="364" key="GridCell.Tab.3.center/62.0.1858.1080@62.0.1858.1080" timestamp="1588374648924" />
-    <state width="907" height="364" key="GridCell.Tab.3.left" timestamp="1588374648924">
+    <state width="907" height="364" key="GridCell.Tab.3.center/62.0.1858.1080@62.0.1858.1080" timestamp="1588417182607" />
+    <state width="907" height="364" key="GridCell.Tab.3.left" timestamp="1588417182607">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state width="907" height="364" key="GridCell.Tab.3.left/62.0.1858.1080@62.0.1858.1080" timestamp="1588374648924" />
-    <state width="907" height="364" key="GridCell.Tab.3.right" timestamp="1588374648924">
+    <state width="907" height="364" key="GridCell.Tab.3.left/62.0.1858.1080@62.0.1858.1080" timestamp="1588417182607" />
+    <state width="907" height="364" key="GridCell.Tab.3.right" timestamp="1588417182607">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state width="907" height="364" key="GridCell.Tab.3.right/62.0.1858.1080@62.0.1858.1080" timestamp="1588374648924" />
-    <state width="907" height="364" key="GridCell.Tab.4.bottom" timestamp="1588374648924">
+    <state width="907" height="364" key="GridCell.Tab.3.right/62.0.1858.1080@62.0.1858.1080" timestamp="1588417182607" />
+    <state width="907" height="364" key="GridCell.Tab.4.bottom" timestamp="1588417182607">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state width="907" height="364" key="GridCell.Tab.4.bottom/62.0.1858.1080@62.0.1858.1080" timestamp="1588374648924" />
-    <state width="907" height="364" key="GridCell.Tab.4.center" timestamp="1588374648924">
+    <state width="907" height="364" key="GridCell.Tab.4.bottom/62.0.1858.1080@62.0.1858.1080" timestamp="1588417182607" />
+    <state width="907" height="364" key="GridCell.Tab.4.center" timestamp="1588417182607">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state width="907" height="364" key="GridCell.Tab.4.center/62.0.1858.1080@62.0.1858.1080" timestamp="1588374648924" />
-    <state width="907" height="364" key="GridCell.Tab.4.left" timestamp="1588374648924">
+    <state width="907" height="364" key="GridCell.Tab.4.center/62.0.1858.1080@62.0.1858.1080" timestamp="1588417182607" />
+    <state width="907" height="364" key="GridCell.Tab.4.left" timestamp="1588417182607">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state width="907" height="364" key="GridCell.Tab.4.left/62.0.1858.1080@62.0.1858.1080" timestamp="1588374648924" />
-    <state width="907" height="364" key="GridCell.Tab.4.right" timestamp="1588374648924">
+    <state width="907" height="364" key="GridCell.Tab.4.left/62.0.1858.1080@62.0.1858.1080" timestamp="1588417182607" />
+    <state width="907" height="364" key="GridCell.Tab.4.right" timestamp="1588417182607">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state width="907" height="364" key="GridCell.Tab.4.right/62.0.1858.1080@62.0.1858.1080" timestamp="1588374648924" />
+    <state width="907" height="364" key="GridCell.Tab.4.right/62.0.1858.1080@62.0.1858.1080" timestamp="1588417182607" />
     <state x="648" y="432" key="Rider.ProjectTemplateDialog.Size" timestamp="1588317648194">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
@@ -363,10 +436,18 @@
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state x="1081" y="183" key="RiderGenerateDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1588027603629" />
-    <state x="174" y="258" key="SettingsEditor" timestamp="1588106183209">
+    <state x="174" y="258" key="SettingsEditor" timestamp="1588421072650">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state x="174" y="258" key="SettingsEditor/62.0.1858.1080@62.0.1858.1080" timestamp="1588106183209" />
+    <state x="174" y="258" key="SettingsEditor/62.0.1858.1080@62.0.1858.1080" timestamp="1588421072650" />
+    <state x="800" y="454" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1588416233920">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="800" y="454" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/62.0.1858.1080@62.0.1858.1080" timestamp="1588416233920" />
+    <state x="885" y="282" key="com.intellij.tools.ToolSelectDialog.dimensionServiceKey" timestamp="1588420936717">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="885" y="282" key="com.intellij.tools.ToolSelectDialog.dimensionServiceKey/62.0.1858.1080@62.0.1858.1080" timestamp="1588420936717" />
     <state x="796" y="401" key="git4idea.rebase.GitRebaseDialog" timestamp="1588374972519">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
@@ -375,6 +456,10 @@
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state x="792" y="446" key="git4idea.remote.GitConfigureRemotesDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1588375001719" />
+    <state x="654" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1588421066240">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="654" y="235" width="672" height="678" key="search.everywhere.popup/62.0.1858.1080@62.0.1858.1080" timestamp="1588421066240" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -388,27 +473,13 @@
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/Tests/BelarusianTransliterationUnitTest.cs</url>
           <line>27</line>
-          <properties documentPath="$PROJECT_DIR$/Tests/CyrillicTransliterationUnitTest.cs" initialLine="30">
-            <startOffsets>
-              <option value="756" />
-            </startOffsets>
-            <endOffsets>
-              <option value="787" />
-            </endOffsets>
-          </properties>
+          <properties documentPath="$PROJECT_DIR$/Tests/CyrillicTransliterationUnitTest.cs" initialLine="30" />
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/Tests/BelarusianTransliterationUnitTest.cs</url>
           <line>25</line>
-          <properties documentPath="$PROJECT_DIR$/Tests/CyrillicTransliterationUnitTest.cs" initialLine="28">
-            <startOffsets>
-              <option value="684" />
-            </startOffsets>
-            <endOffsets>
-              <option value="712" />
-            </endOffsets>
-          </properties>
+          <properties documentPath="$PROJECT_DIR$/Tests/CyrillicTransliterationUnitTest.cs" initialLine="28" />
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
@@ -455,10 +526,10 @@
           <line>60</line>
           <properties documentPath="$PROJECT_DIR$/Souces/LatinToCyrillicCmdletCommand.cs" initialLine="60">
             <startOffsets>
-              <option value="2178" />
+              <option value="2177" />
             </startOffsets>
             <endOffsets>
-              <option value="2179" />
+              <option value="2178" />
             </endOffsets>
           </properties>
           <option name="timeStamp" value="13" />
@@ -494,10 +565,10 @@
           <line>58</line>
           <properties documentPath="$PROJECT_DIR$/Souces/CyrillicToLatinCmdletCommand.cs" initialLine="58">
             <startOffsets>
-              <option value="2183" />
+              <option value="2186" />
             </startOffsets>
             <endOffsets>
-              <option value="2241" />
+              <option value="2244" />
             </endOffsets>
           </properties>
           <option name="timeStamp" value="17" />
@@ -507,52 +578,65 @@
           <line>68</line>
           <properties documentPath="$PROJECT_DIR$/Souces/CyrillicToLatinCmdletCommand.cs" initialLine="68">
             <startOffsets>
-              <option value="2586" />
+              <option value="2589" />
             </startOffsets>
             <endOffsets>
-              <option value="2622" />
+              <option value="2625" />
             </endOffsets>
           </properties>
           <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/Souces/CyrillicToLatinCmdletCommand.cs</url>
-          <line>75</line>
+          <line>78</line>
           <properties documentPath="$PROJECT_DIR$/Souces/CyrillicToLatinCmdletCommand.cs" initialLine="75">
             <startOffsets>
-              <option value="2808" />
+              <option value="2912" />
             </startOffsets>
             <endOffsets>
-              <option value="2868" />
+              <option value="2972" />
             </endOffsets>
           </properties>
           <option name="timeStamp" value="19" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/Souces/LatinToCyrillicCmdletCommand.cs</url>
-          <line>78</line>
+          <line>81</line>
           <properties documentPath="$PROJECT_DIR$/Souces/LatinToCyrillicCmdletCommand.cs" initialLine="78">
             <startOffsets>
-              <option value="2829" />
+              <option value="2917" />
             </startOffsets>
             <endOffsets>
-              <option value="2889" />
+              <option value="2977" />
             </endOffsets>
           </properties>
           <option name="timeStamp" value="20" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/Souces/LatinToCyrillicCmdletCommand.cs</url>
-          <line>84</line>
+          <line>87</line>
           <properties documentPath="$PROJECT_DIR$/Souces/LatinToCyrillicCmdletCommand.cs" initialLine="84">
             <startOffsets>
-              <option value="2976" />
+              <option value="3064" />
             </startOffsets>
             <endOffsets>
-              <option value="3033" />
+              <option value="3121" />
             </endOffsets>
           </properties>
           <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Souces/LatinToCyrillicCmdletCommand.cs</url>
+          <line>75</line>
+          <properties documentPath="$PROJECT_DIR$/Souces/LatinToCyrillicCmdletCommand.cs" initialLine="75">
+            <startOffsets>
+              <option value="2688" />
+            </startOffsets>
+            <endOffsets>
+              <option value="2736" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="22" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

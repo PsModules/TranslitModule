@@ -225,7 +225,6 @@
     <e p="C:\Users\sync\AppData\local\JetBrains\Rider2020.1\resharper-host\local\Transient\ReSharperHost\v201\SolutionCaches\_TranslitModule.-229680286.00" t="ExcludeRecursive" />
     <e p="C:\Users\sync\AppData\Roaming\JetBrains\Rider2020.1\scratches" t="IncludeRecursive" />
     <e p="C:\Users\sync\source\repos\TranslitModule" t="IncludeFlat">
-      <e p="appveyor.yml" t="Include" />
       <e p="Assets" t="IncludeRecursive">
         <e p="Assets.shproj" t="IncludeRecursive" />
         <e p="demo.gif" t="Include" />
@@ -233,7 +232,7 @@
         <e p="Icon.ico" t="Include" />
         <e p="Icon.pdn" t="Include" />
       </e>
-      <e p="azure-pipelines.yml" t="Include" />
+      <e p="license" t="Include" />
       <e p="packages" t="ExcludeRecursive" />
       <e p="README.md" t="Include" />
       <e p="Souces" t="IncludeRecursive">
@@ -241,7 +240,13 @@
         <e p="CyrillicToLatinCmdletCommand.cs" t="Include" />
         <e p="LangHelpers.cs" t="Include" />
         <e p="LatinToCyrillicCmdletCommand.cs" t="Include" />
-        <e p="obj" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.0" t="Include">
+              <e p="TranslitModule.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
         <e p="ParameterSet.cs" t="Include" />
         <e p="TranslitModule.csproj" t="IncludeRecursive" />
       </e>
