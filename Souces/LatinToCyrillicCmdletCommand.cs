@@ -4,12 +4,12 @@
 
 namespace TranslitModule
 {
-    [Cmdlet(VerbsData.ConvertFrom, "LatinTransliteration", ConfirmImpact = ConfirmImpact.Low,
+    [Cmdlet(VerbsData.ConvertFrom, "LatinTransliteration",
+        ConfirmImpact = ConfirmImpact.Low,
         DefaultParameterSetName = "System", SupportsShouldProcess = true)]
     [OutputType(typeof(string))]
     public class LatinToCyrillicCmdletCommand : Cmdlet
     {
-        
         protected Language Lang = NickBuhro.Translit.Language.Unknown;
         protected ParameterSet ParameterSetName;
         private string _langString;
@@ -72,9 +72,12 @@ namespace TranslitModule
                     lang.TryParseLanguage(Lng,out Lang);
                     break;   
             }
-            
-            if ( Lang == NickBuhro.Translit.Language.Unknown)
+
+            if (Lang == NickBuhro.Translit.Language.Unknown)
+            {
+                WriteVerbose($"Locale is not set, using system locale.");
                 Lang = lang.GetLanguageFromLocale();
+            }
             
             WriteVerbose($"Using for Transliteration {Lang} language.");
 
