@@ -10,7 +10,7 @@ The module is based on Transliteration Nuget Library [![NuGet Badge](https://bui
 
 <!-- [Documentation](https://powershellscripts.readthedocs.io/en/latest/) -->
 
-![ConsoleDemo](https://raw.githubusercontent.com/stadub/PowershellBinary/master/TranslitModule/Assets/demo.gif)
+![ConsoleDemo](https://raw.githubusercontent.com/PsModules/TranslitModule/master/Assets/demo.gif)
 
 ## Instalation
 
