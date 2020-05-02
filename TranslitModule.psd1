@@ -33,7 +33,7 @@ Copyright = '(c) Dima Stadub. All rights reserved.'
 Description = 'Cyrillic/Latin text transliteration'
 
 # Minimum version of the PowerShell engine required by this module
-PowerShellVersion = '4.0'
+PowerShellVersion = '2.0'
 
 # Name of the PowerShell host required by this module
 # PowerShellHostName = ''
@@ -42,7 +42,7 @@ PowerShellVersion = '4.0'
 # PowerShellHostVersion = ''
 
 # Minimum version of Microsoft .NET Framework required by this module. This prerequisite is valid for the PowerShell Desktop edition only.
-# DotNetFrameworkVersion = ''
+#DotNetFrameworkVersion = '4.0'
 
 # Minimum version of the common language runtime (CLR) required by this module. This prerequisite is valid for the PowerShell Desktop edition only.
 # CLRVersion = ''
@@ -55,7 +55,7 @@ PowerShellVersion = '4.0'
 
 # Assemblies that must be loaded prior to importing this module
 # RequiredAssemblies = @()
-RequiredAssemblies = @('bin\NickBuhro.Translit.dll')
+#RequiredAssemblies = @('bin\NickBuhro.Translit.dll')
 
 # Script files (.ps1) that are run in the caller's environment prior to importing this module.
 # ScriptsToProcess = @()
@@ -67,13 +67,14 @@ RequiredAssemblies = @('bin\NickBuhro.Translit.dll')
 # FormatsToProcess = @()
 
 # Modules to import as nested modules of the module specified in RootModule/ModuleToProcess
-NestedModules = @('bin\TranslitModule.dll')
+#NestedModules = @('bin\TranslitModule.dll')
 
 # Functions to export from this module, for best performance, do not use wildcards and do not delete the entry, use an empty array if there are no functions to export.
-FunctionsToExport = @('ConvertTo-LatinTransliteration','ConvertFrom-LatinTransliteration')
+#FunctionsToExport = @('ConvertTo-LatinTransliteration','ConvertFrom-LatinTransliteration')
+FunctionsToExport = '*'
 
 # Cmdlets to export from this module, for best performance, do not use wildcards and do not delete the entry, use an empty array if there are no cmdlets to export.
-CmdletsToExport = @()
+CmdletsToExport = @('*')
 
 # Variables to export from this module
 VariablesToExport = '*'
@@ -94,9 +95,9 @@ AliasesToExport = @('*')
 PrivateData = @{
 
     PSData = @{
-
+        #Prerelease = '-alpha'
         # Tags applied to this module. These help with module discovery in online galleries.
-		Tags = @('transliteration','translit','cyrillic','latin')
+		Tags = @('transliteration', 'translit', 'cyrillic', 'latin', 'cyrillic')
 
         # A URL to the license for this module.
         LicenseUri = 'http://opensource.org/licenses/MIT'
@@ -105,7 +106,7 @@ PrivateData = @{
         ProjectUri = 'https://github.com/PsModules/TranslitModule'
 
         # A URL to an icon representing this module.
-        IconUri = 'hhttps://github.com/PsModules/TranslitModule/blob/master/Assets/Icon.ico'
+        IconUri = 'https://github.com/PsModules/TranslitModule/blob/master/Assets/Icon.ico'
 
         # ReleaseNotes of this module
         ReleaseNotes = '
@@ -127,7 +128,7 @@ PrivateData = @{
 } # End of PrivateData hashtable
 
 # HelpInfo URI of this module
-# HelpInfoURI = 'https://github.com/PsModules/TranslitModule/blob/master/README.md'
+HelpInfoURI = 'https://github.com/PsModules/TranslitModule/blob/master/README.md'
 
 # Default prefix for commands exported from this module. Override the default prefix using Import-Module -Prefix.
 # DefaultCommandPrefix = ''
